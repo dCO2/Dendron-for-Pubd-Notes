@@ -3,4 +3,6 @@ node_modules
 build
 seeds
 .next
+docs
 pods/service-connections
+.backup
