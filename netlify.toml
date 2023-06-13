@@ -7,7 +7,7 @@
 
   # Build command
   # Use the build script at root of repo
-  command = "./dendron-publish-site.sh"
+  command = "chmod a+x ./dendron-publish-site.sh && ./dendron-publish-site.sh"
 
 [build.environment]
 NETLIFY_NEXT_PLUGIN_SKIP = "true"
@@ -20,3 +20,4 @@ NETLIFY_NEXT_PLUGIN_SKIP = "true"
   # Next.js plugin, to implement caching, etc.
   # https://github.com/netlify/netlify-plugin-nextjs
   package = "@netlify/plugin-nextjs"
+/
