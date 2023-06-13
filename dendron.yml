@@ -92,7 +92,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
+        title: Caleb's Rough Notes
         description: Personal Knowledge Space
     github:
         enableEditLink: true

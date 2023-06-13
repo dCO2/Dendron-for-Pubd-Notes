@@ -1,11 +1,13 @@
 ---
 id: root
-title: root
-desc: ""
-updated: 1605266684036
+title: Caleb's Rough Notes
+desc: "linked & atomic notes documenting rough thoughts on design choice in projects"
+updated: 1686691829594
 created: 1595961348801
 ---
 
-This is the root for your Dendron vault.
+_Hello!_  
+This is [Caleb's](https://caleb-x0.netlify.app/) public notes page. Not quite a [digital garden](https://github.com/MaggieAppleton/digital-gardeners), and also unlike [Andy's working notes](https://notes.andymatuschak.org/About_these_notes).
 
-If you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`.
+I'm implementing this majorly for collaborative purposes.
+
