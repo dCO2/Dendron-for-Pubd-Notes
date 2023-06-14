@@ -93,7 +93,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: "  Cd-0"
+        title: "  ///:)"
         description: Personal Knowledge Space
     github:
         enableEditLink: true
