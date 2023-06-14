@@ -56,7 +56,7 @@ section.side-layout-main {
   a:hover,
   a:active {
   /** Color for links, except ones that have been already visited. */
-  color: #00629b;
+  color: #169ae6;
   }
   
   a:visited {
