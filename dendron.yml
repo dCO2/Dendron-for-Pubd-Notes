@@ -81,6 +81,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    theme: custom
     siteUrl: https://caleb-d0.netlify.app
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -92,7 +93,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Caleb's Rough Notes
+        title: "  Cd-0"
         description: Personal Knowledge Space
     github:
         enableEditLink: true
