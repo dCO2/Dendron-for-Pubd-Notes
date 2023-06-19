@@ -2,7 +2,7 @@
 id: 96uafepnjg67x3urkpe7hbs
 title: Documenting Codeprop
 desc: ''
-updated: 1687170586281
+updated: 1687174624979
 created: 1687165621232
 ---
 
@@ -18,5 +18,7 @@ Fortunately, a library that does this exists. [Codemirror](https://codemirror.ne
 - How do you implement switching between light and dark themes?
 - How do you implement choosing a language?
 - How do you implement language auto-detection?
+- How do you implement folding a section of code?
+- How do you implement blurring code outside highlighted spotlight but keeping that within spotlight sharp/in-focus?
 
 [Codeprop is currently deployed to Netlify](https://codeprop.netlify.app/).
