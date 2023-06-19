@@ -2,9 +2,13 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1686742342852
+updated: 1687168202556
 created: 1686741481395
 ---
+
+I rushed through a quick app last week within about 10 days. I made use of [[Next-js]], TailwindCSS, Prisma, and [[Ant Design]]. It is a basic notes app and is [deployed on Netlify](https://netpin.netlify.app/) and [Vercel](https://netpin-0-1-1.vercel.app/). The app, however, doesn't work (as built) in deployment as it does in production (remark: All API endpoints were unresponsive)
+
+This note (and other linked notes) details & explains the choices I rushed through while building the app and also documents thoughts on alternative choices that might be preferable for cleaner & effective code.
 
 Proxy Talking Points:
 
