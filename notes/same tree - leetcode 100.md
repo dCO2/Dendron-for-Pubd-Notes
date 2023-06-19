@@ -2,13 +2,13 @@
 id: k6x1pxjfj7oldhylm7xxfo0
 title: same tree - leetcode 100
 desc: ''
-updated: 1687192603422
+updated: 1687202933436
 created: 1687173247651
 ---
 
 At the time I was just beginning to properly understand how the code for recursion should play out when implementing one, I attempted the [Same Tree (Easy) Leetcode problem](https://leetcode.com/problems/same-tree/) with the following accepted solution in C++:
 
-```c++
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
