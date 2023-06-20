@@ -2,11 +2,11 @@
 id: k6x1pxjfj7oldhylm7xxfo0
 title: same tree - leetcode 100
 desc: ''
-updated: 1687202933436
+updated: 1687301779385
 created: 1687173247651
 ---
 
-At the time I was just beginning to properly understand how the code for recursion should play out when implementing one, I attempted the [Same Tree (Easy) Leetcode problem](https://leetcode.com/problems/same-tree/) with the following accepted solution in C++:
+At the time I began properly understanding how the code for recursion should play out when implementing one, I attempted the [Same Tree (Easy) Leetcode problem](https://leetcode.com/problems/same-tree/) with the following accepted solution in C++:
 
 ```cpp
 /**
@@ -81,15 +81,11 @@ public:
 };
 ```
 
-It is clear that this was the most intuitive way for me to think about solving recursion. VIZ: Initialize some global variable, and go through each of the (base)cases for the recursion so that some condition modifies the global variable.
-
-The same pattern is seen when I solved for [validate binary search tree](), [Balanced Binary Tree - leetcode 110](),...
-
-But I can't help but think there's a much better approach to these, yes?? Or some code with the same logic but refactored elegantly.
-
-And yes there is. See [[thinking non-intuitively about rescurion]].
-
-Also, mind you, the code is not verbose because of the choice of programming language; c++, but because of my (intuitive & beginner) thought process while solving it.
+- It is clear that this was the most intuitive way for me to think about solving recursion. VIZ: Initialize some global variable, and go through each of the (base)cases for the recursion so that some condition modifies the global variable.
+- The same pattern is seen when I solved for [validate binary search tree](), [Balanced Binary Tree - leetcode 110](),...
+- There's however a much better approach to the above code with the same logic but refactored elegantly. See [[thinking non-intuitively about rescurion]].
+- I only wonder if a beginner has to go through this stage of thinking about "_each of the (base)cases for the recursion so that some condition modifies the global variable_"
+- Also, mind you, the code is not verbose because of the choice of programming language; c++, but because of my (intuitive & beginner) thought process while solving it.
 
 #### Misc:
 [[balanced binary tree]]
