@@ -2,7 +2,7 @@
 id: k6x1pxjfj7oldhylm7xxfo0
 title: same tree - leetcode 100
 desc: ''
-updated: 1687301846400
+updated: 1687301947571
 created: 1687173247651
 ---
 
@@ -88,7 +88,7 @@ public:
 - Also, mind you, the code is not verbose because of the choice of programming language; c++, but because of my (intuitive & beginner) thought process while solving it.
 
 #### Misc:
-[[balanced binary tree]]
-[[validate binary search tree]]
+[[balanced binary tree]]  
+[[validate binary search tree]]  
 
 [[maximum value in a binary tree]]
