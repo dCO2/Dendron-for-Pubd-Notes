@@ -2,75 +2,42 @@
 id: k6x1pxjfj7oldhylm7xxfo0
 title: same tree - leetcode 100
 desc: ''
-updated: 1687301947571
+updated: 1687302288556
 created: 1687173247651
 ---
 
 At the time I began properly understanding how the code for recursion should play out when implementing one, I attempted the [Same Tree (Easy) Leetcode problem](https://leetcode.com/problems/same-tree/) with the following accepted solution in C++:
 
 ```cpp
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     bool issame = true;
-    
     int caller(TreeNode* p, TreeNode* q){
-        
-        if(p == nullptr && q == nullptr){
-            return 0;
-        }
-        
+        if(p == nullptr && q == nullptr) return 0;
         if(p == nullptr || q == nullptr){
             issame = false;
             return 0;
         }
-    
-        if(p->val != q->val){
-            issame = false;
-        }
-        
-        if(!issame){
-            return 0;
-        }
-        
-        if(p->right != nullptr && q->right != nullptr){
-            int pr = caller(p->right, q->right);
-        }
-        
-        if(p->left != nullptr && q->left != nullptr){
-            int pl = caller(p->left, q->left);
-        }
-        
+        if(p->val != q->val) issame = false;
+        if(!issame) return 0;
+        if(p->right != nullptr && q->right != nullptr) int pr = caller(p->right, q->right);
+        if(p->left != nullptr && q->left != nullptr) int pl = caller(p->left, q->left);
         if(p->right == nullptr && q->right != nullptr){
             issame = false;
             return 0;
         }
-        
         if(p->left == nullptr && q->left != nullptr){
             issame = false;
             return 0;
         }
-        
         if(p->right != nullptr && q->right == nullptr){
             issame = false;
             return 0;
         }
-        
         if(p->left != nullptr && q->left == nullptr){
             issame = false;
             return 0;
         }
-        
         return 0;
     }
     
