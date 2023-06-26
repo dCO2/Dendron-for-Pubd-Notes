@@ -2,7 +2,7 @@
 id: 6mxdmp3neuhuxzugon2bpzz
 title: how do you dynamically change the font and font-size
 desc: ''
-updated: 1687170581498
+updated: 1687802151947
 created: 1687169675276
 ---
 
@@ -29,7 +29,7 @@ const testTheme = EditorView.theme({
   }
 });
 ```
-Which is injected alongside other themes as an extension in the (`EditorState.create) method:
+Which is injected alongside other themes as an extension in the `EditorState.create` method:
 
 ```javascript
 const startState = EditorState.create({
