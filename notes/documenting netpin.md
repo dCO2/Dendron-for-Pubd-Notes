@@ -2,15 +2,33 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1687168202556
+updated: 1687894623188
 created: 1686741481395
 ---
 
-I rushed through a quick app last week within about 10 days. I made use of [[Next-js]], TailwindCSS, Prisma, and [[Ant Design]]. It is a basic notes app and is [deployed on Netlify](https://netpin.netlify.app/) and [Vercel](https://netpin-0-1-1.vercel.app/). The app, however, doesn't work (as built) in deployment as it does in production (remark: All API endpoints were unresponsive)
+I rushed through a quick app last week within about 10 days in order to learn about the libraries & tools I made use of, including; [[Next-js]], TailwindCSS, Prisma, and [[Ant Design]]. It is a basic notes app, [deployed on Netlify](https://netpin.netlify.app/) and [Vercel](https://netpin-0-1-1.vercel.app/). The app, however, doesn't work in production (i.e., deployment) as it does in development (remark: All API endpoints are currently unresponsive)
 
-This note (and other linked notes) details & explains the choices I rushed through while building the app and also documents thoughts on alternative choices that might be preferable for cleaner & effective code.
+_This note (and other linked notes) details & explains the choices I rushed through while building the app and also documents thoughts on alternative choices that might be preferable for cleaner & effective code._
 
-Proxy Talking Points:
+On mobile, the app looks like this:  
+
+![screen-grab of netpin on mobile](image.png)  
+
+...containing 3 sections: an header, an instruction text, a login-input, and a createnote-area. There is one more section which shows up below the createnote-area when a user logs in and creates a note.  
+
+This was not the initial design though. The initial sketchy design is shown below. It is seen that I had no idea, before-hand, on how exactly to implement any of the sections or components.    
+
+![Alt text](image-1.png)
+
+The initial intent was to design some quick and simple app to post some text (that eventually expires) to the web, and obtain a shareable link. But I couldn't resist adding more features.
+
+It was cool to make it possible to create persisting notes that can be shared and editted. But to revisit a note in order to edit it, a constraint on who can edit which note had to be implemented. That is, authors (or users) with unique IDs had to be linked to each note. Hence, a login component in the app had to be implemented.
+
+Implementing the login-input (with simple logic and minimal code) was a bit tricky while trying to ensure:  
+1. new users select unique names, and  
+2. users cannot see other users' notes  
+
+Hence, the "existing user" and "new user" checkboxes was implemented alongside login. This way, the use of Passwords, and all the logic+code that come with passwords is avoided.
 
 - [[how was the apps state handled]]
 - [[how was the note-card text-input implemented]]
