@@ -2,7 +2,7 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1687895984816
+updated: 1687896976573
 created: 1686741481395
 ---
 
@@ -12,13 +12,13 @@ _This note (and other linked notes) details & explains the choices I rushed thro
 
 On mobile, the app looks like this:  
 
-![screen-grab of netpin on mobile](/notes/image.png)  
+![screen-grab of netpin on mobile](/assets/images/image.png)  
 
 ...containing 3 sections: an header, an instruction text, a login-input, and a createnote-area. There is one more section which shows up below the createnote-area when a user logs in and creates a note.  
 
 This was not the initial design though. The initial sketchy design is shown below. It is seen that I had no idea, before-hand, on how exactly to implement any of the sections or components.    
 
-![Alt text](/notes/image-1.png)
+![initial rough prototype for netpin](/assets/images/image-1.png)
 
 The initial intent was to design some quick and simple app to post some text (that eventually expires) to the web, and obtain a shareable link. But I couldn't resist adding more features.
 
