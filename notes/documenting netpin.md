@@ -2,7 +2,7 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1687896976573
+updated: 1687900078144
 created: 1686741481395
 ---
 
@@ -14,7 +14,13 @@ On mobile, the app looks like this:
 
 ![screen-grab of netpin on mobile](/assets/images/image.png)  
 
-...containing 3 sections: an header, an instruction text, a login-input, and a createnote-area. There is one more section which shows up below the createnote-area when a user logs in and creates a note.  
+...containing 3 sections:
+- an header,
+- an instruction text,
+- a login-input, and
+- a createnote-area.  
+
+There is one more section which shows up below the createnote-area when a user logs in and creates a note.  
 
 This was not the initial design though. The initial sketchy design is shown below. It is seen that I had no idea, before-hand, on how exactly to implement any of the sections or components.    
 
