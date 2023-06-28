@@ -2,11 +2,11 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1687900078144
+updated: 1687972588503
 created: 1686741481395
 ---
 
-I rushed through a quick app last week within about 10 days in order to learn about the libraries & tools I made use of, including; [[Next-js]], TailwindCSS, Prisma, and [[Ant Design]]. It is a basic notes app, [deployed on Netlify](https://netpin.netlify.app/) and [Vercel](https://netpin-0-1-1.vercel.app/). The app, however, doesn't work in production (i.e., deployment) as it does in development (remark: All API endpoints are currently unresponsive)
+I rushed through a quick app last week within ~10 days in order to learn about the libraries & tools I made use of, including; [[Next-js]], TailwindCSS, Prisma, and [[Ant Design]]. It is a basic notes app, [deployed on Netlify](https://netpin.netlify.app/) and [Vercel](https://netpin-0-1-1.vercel.app/). The app, however, doesn't work in production (i.e., deployment) as it did in development (remark: All API endpoints are currently unresponsive)
 
 _This note (and other linked notes) details & explains the choices I rushed through while building the app and also documents thoughts on alternative choices that might be preferable for cleaner & effective code._
 
@@ -34,7 +34,9 @@ Implementing the login-input (with simple logic and minimal code) was a bit tric
 1. new users select unique names, and  
 2. users cannot see other users' notes  
 
-Hence, the "existing user" and "new user" checkboxes was implemented alongside login. This way, the use of Passwords, and all the logic+code that come with passwords is avoided.
+Hence, the need for "existing user" and "new user" checkboxes alongside login. This way, the use of passwords, and all the logic+code that come with it is avoided. (See [[how was login implemented]])
+
+In order to avoid the case where a note is created & a request sent to the create-note API endpoint, the note-card is disabled before a user creates a user-name or before an existing user logs in. (See [[why is the search and note-card area disabled by default]])
 
 - [[how was the apps state handled]]
 - [[how was the note-card text-input implemented]]
@@ -42,4 +44,5 @@ Hence, the "existing user" and "new user" checkboxes was implemented alongside l
 - [[how was search implemented]]
 - [[why is the search and note-card area disabled by default]]
 - [[how are the user-notes persisted into a database]]
+
 

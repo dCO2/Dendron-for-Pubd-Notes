@@ -2,7 +2,7 @@
 id: k6x1pxjfj7oldhylm7xxfo0
 title: same tree - leetcode 100
 desc: ''
-updated: 1687646981880
+updated: 1687940848057
 created: 1687173247651
 ---
 
@@ -49,13 +49,13 @@ public:
 ```
 
 - It is clear that this was the most intuitive way for me to think about solving recursion. VIZ: Initialize some global variable, and go through each of the (base)cases for the recursion so that some condition modifies the global variable.
-- The same pattern is seen when I solved for [validate binary search tree](), [Balanced Binary Tree - leetcode 110](),...
+- The same pattern is seen when I solved for [[validate binary search tree - leetcode 98]], [[balanced binary tree - leetcode 110]],...
 - There's however a much better approach to the above code with the same logic but refactored elegantly. See [[thinking non-intuitively about rescurion]].
 - I only wonder if a beginner has to go through this stage of thinking about "_each of the (base)cases for the recursion so that some condition modifies the global variable_" before they finally begin to write shorter, cleaner recursive code.
 - Also, mind you, the code is not verbose because of the choice of programming language; c++, but because of my (intuitive & beginner) thought process while solving it.
 
 ### Misc:
-[[balanced binary tree]]  
-[[validate binary search tree]]  
+[[balanced binary tree - leetcode 110]]  
+[[validate binary search tree - leetcode 98]]  
 
 [[maximum value in a binary tree]]
