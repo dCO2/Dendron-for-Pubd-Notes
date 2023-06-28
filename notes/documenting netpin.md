@@ -2,7 +2,7 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1687972588503
+updated: 1687975967602
 created: 1686741481395
 ---
 
@@ -37,6 +37,8 @@ Implementing the login-input (with simple logic and minimal code) was a bit tric
 Hence, the need for "existing user" and "new user" checkboxes alongside login. This way, the use of passwords, and all the logic+code that come with it is avoided. (See [[how was login implemented]])
 
 In order to avoid the case where a note is created & a request sent to the create-note API endpoint, the note-card is disabled before a user creates a user-name or before an existing user logs in. (See [[why is the search and note-card area disabled by default]])
+
+[[the directory for the netpin site currently looks like this]]
 
 - [[how was the apps state handled]]
 - [[how was the note-card text-input implemented]]
