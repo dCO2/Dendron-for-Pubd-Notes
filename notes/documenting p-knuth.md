@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1687942889011
+updated: 1687988982660
 created: 1687939612373
 ---
 
@@ -12,6 +12,9 @@ created: 1687939612373
 `success rate: 40%`  
 `remarks: difficult; work in progress`
 
+- Nuggets:
+  - [[inorder traversal]], [[preorder traversal]], [[postorder traversal]] are all [[depth-first search]]-ish, very unlike [[level-order traversal]] which is [[breadth-first search]]-ish
+  - [[postorder traversal]] is strictly bottom-up. [[inorder traversal]] is slightly bottom-up. [[preorder traversal]] is strictly top-down.
 
 - Why learn Algorithm design?
   - "It is usually the case that when engineers learn algorithm design, they do so not primarily because it is fascinating to think about technical problems but because getting a FANG job is a big motivation. The prospects of getting a FANG job doesn't excite me anymore. I just, now, want to reach back to that initial spark that made me find something really fascinating about the implementation of computer algorithms. The genesis, most of the time is mathematics. The beauty of it. The promise that by understanding some fact deeply, you can see and appreciate its beauty in some other thing."

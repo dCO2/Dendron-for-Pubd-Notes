@@ -2,7 +2,7 @@
 id: dqs1xi7wx1q8xb0urwpzo2l
 title: documenting plain-net-lib
 desc: ''
-updated: 1687946974078
+updated: 1687976661418
 created: 1687943371932
 ---
 
@@ -34,3 +34,5 @@ There are a few hiccups with functioning of the site. For example,
 - it should be impossible to add a book more than once to the same shelf;
 - if a book is added more than once, all the instances of the same book should not be moved when one of the instance is moved to another shelf or deleted.
 - the UI is not well-responsive for mobile, etc.
+
+[plain-net-lib is courrently deployed on Netlify](https://plain-net-lib.netlify.app/)
