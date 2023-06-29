@@ -2,7 +2,7 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1687975967602
+updated: 1688070111074
 created: 1686741481395
 ---
 
@@ -32,13 +32,11 @@ It was cool to make it possible to create persisting notes that can be shared an
 
 Implementing the login-input (with simple logic and minimal code) was a bit tricky while trying to ensure:  
 1. new users select unique names, and  
-2. users cannot see other users' notes  
+2. a user cannot see other users' notes  
 
-Hence, the need for "existing user" and "new user" checkboxes alongside login. This way, the use of passwords, and all the logic+code that come with it is avoided. (See [[how was login implemented]])
+Hence, the need for the "existing user" and "new user" checkboxes alongside login. This way, the use of passwords, [[and all the logic+code that come with it|Authentication]] is avoided. (See [[how was login implemented]])
 
 In order to avoid the case where a note is created & a request sent to the create-note API endpoint, the note-card is disabled before a user creates a user-name or before an existing user logs in. (See [[why is the search and note-card area disabled by default]])
-
-[[the directory for the netpin site currently looks like this]]
 
 - [[how was the apps state handled]]
 - [[how was the note-card text-input implemented]]
@@ -46,5 +44,13 @@ In order to avoid the case where a note is created & a request sent to the creat
 - [[how was search implemented]]
 - [[why is the search and note-card area disabled by default]]
 - [[how are the user-notes persisted into a database]]
-
+- [[the directory for the netpin site currently looks like this]]
+- how is a link for each note generated?
+- how is a POST request handled in next.js?  
+- how is a POST request to a DB handled using Prisma in next.js?  
+- how is a GET request handled in next.js?  
+- how is a GET request from a DB handled using Prisma in next.js?  
+- how was the DB schema generated and migrated to the physical database?
+- params in nextjs
+- PageProps in nextjs
 

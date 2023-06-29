@@ -2,7 +2,7 @@
 id: 96uafepnjg67x3urkpe7hbs
 title: Documenting Codeprop
 desc: ''
-updated: 1687174624979
+updated: 1688062947849
 created: 1687165621232
 ---
 
@@ -21,4 +21,14 @@ Fortunately, a library that does this exists. [Codemirror](https://codemirror.ne
 - How do you implement folding a section of code?
 - How do you implement blurring code outside highlighted spotlight but keeping that within spotlight sharp/in-focus?
 
-[Codeprop is currently deployed to Netlify](https://codeprop.netlify.app/).
+#### [Codeprop is currently deployed to Netlify](https://codeprop.netlify.app/).
+
+### Misc
+#### Build a Text Editor
+[Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) C
+[Designing a Simple Text Editor](http://www.fltk.org/doc-1.1/editor.html) C++
+[Python Tutorial: Make Your Own Text Editor](https://www.youtube.com/watch?v=xqDonHEYPgA) Python
+[Create a Simple Python Text Editor!](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/) Python
+[Build a Collaborative Text Editor Using Rails](https://blog.aha.io/text-editor/) Ruby
+[Hecto: Build your own text editor in Rust](https://www.flenker.blog/hecto/) Rust
+
