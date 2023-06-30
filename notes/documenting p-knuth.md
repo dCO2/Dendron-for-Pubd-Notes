@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1687988982660
+updated: 1688158481636
 created: 1687939612373
 ---
 
@@ -13,21 +13,18 @@ created: 1687939612373
 `remarks: difficult; work in progress`
 
 - Nuggets:
-  - [[inorder traversal]], [[preorder traversal]], [[postorder traversal]] are all [[depth-first search]]-ish, very unlike [[level-order traversal]] which is [[breadth-first search]]-ish
+  - [[inorder traversal]], [[preorder traversal]], [[postorder traversal]] are all [[depth-first]]-ish, very unlike [[level-order traversal]] which is more [[breadth-first]]-ish
   - [[postorder traversal]] is strictly bottom-up. [[inorder traversal]] is slightly bottom-up. [[preorder traversal]] is strictly top-down.
 
-- Why learn Algorithm design?
-  - "It is usually the case that when engineers learn algorithm design, they do so not primarily because it is fascinating to think about technical problems but because getting a FANG job is a big motivation. The prospects of getting a FANG job doesn't excite me anymore. I just, now, want to reach back to that initial spark that made me find something really fascinating about the implementation of computer algorithms. The genesis, most of the time is mathematics. The beauty of it. The promise that by understanding some fact deeply, you can see and appreciate its beauty in some other thing."
-- What makes Algorithm design troublesome but fun for me?
-  - I tend to treat learning a skill like mastering a landscape? And so I depend on categorised paths from easy to hard or linked-lists to graphs that teach specific lessons on how to think about solving random unlabelled problems. This helps with remembering problem solutions so they can be reapplied. But if that categorised landscape is absent, the problem solutions are easy to forget and a new solution, hard to find.
+- [[why learn algorithm design]]?
+- [[what makes algorithm design troublesome but fun]]?
 - How do you remember the wandering of thought processes that went into implementing the code for an algorithm? Even after months of implementing the code? Especially when you don't have all the time to practice?
   - For example, See [Leetcode 5, Longest Palindromic Substring]() & Leetcode 647, Palindromic Substrings.
-- Write down your thought process when thinking about a solution for problems.
-  - Leetcode 985, [Sum Of Even Numbers After Queries](/2022/09/21/sum-of-even-number-after-queries).
-  - Leetcode 000, "_Insert title here_"---
-- See [[Using Anki to think about algorithm design problems]].
+- Write down your thought process when thinking about a solution for problems. (You actually shouldn't do this)
+- See [[using Anki to think about algorithm design problems]].
   - [[are you not cramming code?]]---Oh no, actually not.
-- Some algorithms become more Interesting because it is clear how they are very practically useful. (See Sean Parent and `std::rotate` in [C++ GoingNative 2013](https://www.youtube.com/watch?v=W2tWOdzgXHA&t=2396s)).
+- Some algorithms become more Interesting because it is clear how they are very practically useful.
+  - (See Sean Parent and `std::rotate` in [C++ GoingNative 2013](https://www.youtube.com/watch?v=W2tWOdzgXHA&t=2396s)).
 - Algorithms that easily become a part of you (because they are simple? or their problem statement is straightforward? or the solution is memorable?)
   - Linked List: "_Design an algorithm that, given a pointer to the head of a linked list, returns a pointer to the element at the middle of the list_", [Leetcode Link](https://leetcode.com/problems/middle-of-the-linked-list/)
   - Bit-shifting, Adhoc: "_Design an algorithm that, given a non-empty array of integers where every integer appears twice except for one integer, returns the value of that one integer_", [Leetcode Link](https://leetcode.com/problems/single-number/)
