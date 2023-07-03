@@ -2,7 +2,7 @@
 id: y3a2iyw2tzwli11n6t7e2ss
 title: Authentication
 desc: ''
-updated: 1688076686118
+updated: 1688399690016
 created: 1688065677888
 ---
 
@@ -31,6 +31,8 @@ Skim & Ankify for anything new; [Modern Authentication - Rob Moore](https://yout
 #### How (Standards)?
 - Token format
 - Auth protocols
+
+https://news.ycombinator.com/item?id=36565405: https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks
 
 https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/  
 
