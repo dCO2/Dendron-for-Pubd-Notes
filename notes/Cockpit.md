@@ -2,7 +2,7 @@
 id: iigsegd5wmxqyw5kyvujzcu
 title: Cockpit
 desc: ''
-updated: 1688404108815
+updated: 1688586223249
 created: 1688395618124
 ---
 
@@ -22,7 +22,7 @@ created: 1688395618124
 [[Linux]]  
 [[performance co-pilot]]  
 [[systemd]]  
-[[storaged]]
+[[storaged]]  
 [[daemon]]  
 [[kernel]]  
 [[bootloader]]  
