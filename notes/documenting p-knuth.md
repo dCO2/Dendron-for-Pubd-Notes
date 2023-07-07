@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1688158481636
+updated: 1688769058015
 created: 1687939612373
 ---
 
@@ -43,4 +43,5 @@ for(auto i = start; i != end; i++){
   std::rotate(std::upper_bound(start, i, *i), i, std::next(i));
 }
 ```
-- ...
+- coding problems are puzzles you solve by thinking/tinkering first, without code. after you've got the solution, you translate the idea you've got into code. the most useful/transferrable learning comes in this stage.
+  - curiously, there's no way to accurately decouple the puzzle-solving process from the translation process because you inevitably think in code. you think in the affordances of your programming language; "is there a way to do this easily, with a few characters of code in python? etc" the two are conceptually separate and yet bound.
