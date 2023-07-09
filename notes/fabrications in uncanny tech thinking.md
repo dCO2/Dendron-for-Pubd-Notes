@@ -2,11 +2,11 @@
 id: qbye8d5zk4xr26jnu2g5t6q
 title: Fabrications in Uncanny Tech Thinking
 desc: ''
-updated: 1688847938216
+updated: 1688848473960
 created: 1688655234589
 ---
 
-_`for now;`_ `'tech' as in procedural digital-world; not as in oil-drilling or nuclear fusion or bioengineering or etc.`
+_`for now;`_ `'tech' as in procedural digital-world; not as in oil-drilling or nuclear fusion or bioengineering &c.`
 
 - What are the various ways [[Autocompletes]] have been rendered as visual [[Interfaces]]?  
 - [[Autocompletes]] in [[VR]]/3D design.  
