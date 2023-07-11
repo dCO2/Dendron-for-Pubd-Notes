@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1689007384600
+updated: 1689089867994
 created: 1687939612373
 ---
 
@@ -48,3 +48,5 @@ for(auto i = start; i != end; i++){
   - [Leetcode problem 2551](https://leetcode.com/problems/put-marbles-in-bags/) (Put Marbles in Bags) illustrates this
 - it is best to "remember" the outline of the (coded) solution to each problem—which is easier to do when you actually understand the solution—so that it is easier to think about a solution for related problems which (by definition) should build upon (or be similar to) the coded solution for the initial problem.
   - The coded solution for the [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem is similar to that of [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) such that if the former is solved before the latter and the solution remembered, it is easy to implement the solution for the latter since relatively little thinking/figuring-out will be required.
+- [[What is the pattern in the way decision trees are used to think about solution to problems]]
+- [[What is the pattern in the code for algorithms that solve backtracking problems]]
