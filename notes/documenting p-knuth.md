@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1689269818328
+updated: 1689342153008
 created: 1687939612373
 ---
 
@@ -53,4 +53,4 @@ for(auto i = start; i != end; i++){
 - [[What is the pattern in the code for algorithms that solve backtracking problems]]
 - we don't care about puzzles or finding the patterns of algorithm design thinking in our household lives because we don't particularly care about optimization; the data is not fully available at our grasp at any given moment &c. But for companies whose profit or life & death status is dependent on how well they cut their losses, optimization is important.
 - I think it is best to play around the solution of an algorithm problem as a beginner (if you don't want to move fast), this way you get a feel of the breadth or landscape of the (mathematical) patterns in the problem.
-- (leet)coder tutoring on youtube are not teachers, beginners will get the wrong impression that that [top-down coding] with ease is how problems are solved. ([[on the difficulty of communication]])
+- (leet)coders tutoring on youtube are not teachers, beginners will get the wrong impression that that [top-down coding] with ease is how problems are solved. ([[on the difficulty of communication]])
