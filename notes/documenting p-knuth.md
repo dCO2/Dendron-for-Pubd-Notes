@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1689342153008
+updated: 1689457026275
 created: 1687939612373
 ---
 
@@ -38,11 +38,11 @@ created: 1687939612373
   - For example... "_Design an algorithm that, given the head of an unsorted linked list of integers, returns the head to the linked list sorted using insertion sort_"
   - To solve this, if the input is not a linked list but an array, one could go on and implement the insertion sort procedure. But it is usually better to employ standard lbrary algorithm. The algorithm below is an implementation of the insertion sort procedure on an array, making use of the `std::rotate`, `std::upper_bound`, and `std::next` algorithms in c++.
 
-```cpp
-for(auto i = start; i != end; i++){
-  std::rotate(std::upper_bound(start, i, *i), i, std::next(i));
-}
-```
+    ```cpp
+    for(auto i = start; i != end; i++){
+      std::rotate(std::upper_bound(start, i, *i), i, std::next(i));
+    }
+    ```
 - coding problems are puzzles you solve by thinking/tinkering first, without code. after you've got the solution, you translate the idea you've got into code. the most useful/transferrable learning comes in this stage.
   - curiously, there's no way to accurately decouple the puzzle-solving process from the translation process because you inevitably think in code. you think in the affordances & constraints of your programming language; "is there a way to do this easily, with a few characters of code in python? etc" the two are conceptually separate and yet bound.
   - [Leetcode problem 2551](https://leetcode.com/problems/put-marbles-in-bags/) (Put Marbles in Bags) illustrates this
