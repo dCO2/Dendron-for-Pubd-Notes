@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1689457026275
+updated: 1689547482564
 created: 1687939612373
 ---
 
@@ -54,3 +54,6 @@ created: 1687939612373
 - we don't care about puzzles or finding the patterns of algorithm design thinking in our household lives because we don't particularly care about optimization; the data is not fully available at our grasp at any given moment &c. But for companies whose profit or life & death status is dependent on how well they cut their losses, optimization is important.
 - I think it is best to play around the solution of an algorithm problem as a beginner (if you don't want to move fast), this way you get a feel of the breadth or landscape of the (mathematical) patterns in the problem.
 - (leet)coders tutoring on youtube are not teachers, beginners will get the wrong impression that that [top-down coding] with ease is how problems are solved. ([[on the difficulty of communication]])
+  - [this is a good example](https://youtu.be/yiAaGRWdqVA) of a youtuber thinking through a problem?
+  - including some from [exponent](https://www.youtube.com/@tryexponent/videos)
+
