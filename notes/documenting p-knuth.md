@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1689547482564
+updated: 1689612686777
 created: 1687939612373
 ---
 
@@ -56,4 +56,7 @@ created: 1687939612373
 - (leet)coders tutoring on youtube are not teachers, beginners will get the wrong impression that that [top-down coding] with ease is how problems are solved. ([[on the difficulty of communication]])
   - [this is a good example](https://youtu.be/yiAaGRWdqVA) of a youtuber thinking through a problem?
   - including some from [exponent](https://www.youtube.com/@tryexponent/videos)
+- how do you convince yourself with quick proofs that the algorithm you're blindly putting together will compile and give the correct results?
+  - (written after attempting the [Merge Intervals](https://leetcode.com/problems/merge-intervals/) problem)
+    - I was too unsure the step I was taking led to a solution
 
