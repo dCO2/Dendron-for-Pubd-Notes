@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1689612686777
+updated: 1689713075683
 created: 1687939612373
 ---
 
@@ -57,6 +57,7 @@ created: 1687939612373
   - [this is a good example](https://youtu.be/yiAaGRWdqVA) of a youtuber thinking through a problem?
   - including some from [exponent](https://www.youtube.com/@tryexponent/videos)
 - how do you convince yourself with quick proofs that the algorithm you're blindly putting together will compile and give the correct results?
+  - this is very important and is one the reasons some problems feel difficult.. they feel tricky because you cannot prove to yourself that so and so step that you envision will be "correct" and you don't eventually foray into that path or you probably couldn't even see it. ([Integer Break](https://leetcode.com/problems/integer-break/))
   - (written after attempting the [Merge Intervals](https://leetcode.com/problems/merge-intervals/) problem)
     - I was too unsure the step I was taking led to a solution
 
