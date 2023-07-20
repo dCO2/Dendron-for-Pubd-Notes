@@ -2,7 +2,7 @@
 id: 1zmomff28z01qqxek8kouyl
 title: documenting project mnemosyne
 desc: ''
-updated: 1689849940289
+updated: 1689850647085
 created: 1687938864599
 ---
 
@@ -106,18 +106,15 @@ See [[A gallery of various personal notes|gallery-of-various-personal-notes]]
 
 ### [[Using Anki to remember movies|anki-remember-movies]]
 
-### [[Using Anki to gain self-knowledge]]
-Using Anki to remember questions to yourself you might answer in the future
-
 ### [[Using Anki to master exercises and movement]]
 
-### [[Using Anki to read books]]
+### [[Using Anki to read books|]]
 
-### [[Using Anki to read articles]]
+### [[Using Anki to read articles|]]
 
-### [[Using Anki to learn history]]
+### [[Using Anki to learn history|]]
 
-### [[Using Anki to learn novels/stories]]
+### [[Using Anki to learn novels/stories|]]
 
 ### Using Anki to learn a language
 
