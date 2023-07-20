@@ -2,7 +2,7 @@
 id: 1zmomff28z01qqxek8kouyl
 title: documenting project mnemosyne
 desc: ''
-updated: 1689850647085
+updated: 1689851166205
 created: 1687938864599
 ---
 
@@ -102,19 +102,19 @@ See [[A gallery of various personal notes|gallery-of-various-personal-notes]]
 
 ### [[Using Anki to read the bitcoin paper|anki and the bitcoin paper]]
 
-### [[Using Anki to learn a course|anki-and-schillers-financial-markets-course]]
+### [[Using Anki to learn a course|anki and schillers financial markets course]]
 
-### [[Using Anki to remember movies|anki-remember-movies]]
+### [[Using Anki to remember movies|using anki to remember movies]]
 
 ### [[Using Anki to master exercises and movement]]
 
-### [[Using Anki to read books|]]
+### [[Using Anki to read books|SRS to read books]]
 
-### [[Using Anki to read articles|]]
+### [[Using Anki to read articles|SRS to read articles]]
 
-### [[Using Anki to learn history|]]
+### [[Using Anki to learn history|SRS to learn history]]
 
-### [[Using Anki to learn novels/stories|]]
+### [[Using Anki to learn novels/stories|SRS to read novels]]
 
 ### Using Anki to learn a language
 
