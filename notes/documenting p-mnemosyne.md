@@ -2,7 +2,7 @@
 id: 1zmomff28z01qqxek8kouyl
 title: documenting project mnemosyne
 desc: ''
-updated: 1689851166205
+updated: 1689954951602
 created: 1687938864599
 ---
 
@@ -91,9 +91,9 @@ See [[A gallery of various personal notes|gallery-of-various-personal-notes]]
 - [[a note should not be vague|a-note-should-not-be-vague]]
 - [[a note should be tractable|a-note-should-be-tractable]]
 - [[a note should be effortful|a-note-should-be-effortful]]
-- [[make many fleeting notes|make-many-fleeting-notes]]
-- [[tag your notes by topic|tag-your-notes-by-topic]]
-- [[a note should contain images where possible|a-note-should-contain-images-where-possible)]]
+- [[make many fleeting notes]]
+- [[tag your notes by topic]]
+- [[a note should contain images where possible]]
 - [[create notes when you must|create-notes-when-you-must]] (Don't learn it if you do not [want to] understand it)
 - [[refactor or delete notes that are big or stale|refactor old notes]]
 

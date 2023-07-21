@@ -2,7 +2,7 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: Documenting Netpin
 desc: ''
-updated: 1688249624621
+updated: 1689953753149
 created: 1686741481395
 ---
 
@@ -22,7 +22,7 @@ The app is sectioned into 4:
 
 There is one more section which shows up below the createnote-area when a user logs in and creates a note.  
 
-This was not the initial design though. The initial sketchy design is shown below. It is seen that I had no idea, before-hand, on how exactly to implement any of the sections or components.    
+This was not the initial design though. The initial sketchy design is shown below. It is seen that I had no idea, before-hand, on how exactly to implement any of the sections or components.  
 
 ![initial rough prototype for netpin](/assets/images/image-1.png)
 
