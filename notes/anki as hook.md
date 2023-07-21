@@ -1,8 +1,8 @@
 ---
 id: s71agbgu6cxcqg5ksqb2zg5
-title: Anki as Hook
+title: anki as hook
 desc: ''
-updated: 1689849316373
+updated: 1689955667524
 created: 1689849311484
 ---
 

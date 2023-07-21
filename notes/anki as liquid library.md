@@ -1,8 +1,8 @@
 ---
 id: 2cz4m06twkaojvnbkzeg6fs
-title: Anki as Liquid Library
+title: anki as liquid library
 desc: ''
-updated: 1689849364944
+updated: 1689955679756
 created: 1689849336994
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: z5armnem77umnquacopetqj
-title: A Note Should Contain Images Where Possible
+title: a note should contain images where possible
 desc: ''
-updated: 1689954705961
+updated: 1689955306294
 created: 1689954694514
 ---
 

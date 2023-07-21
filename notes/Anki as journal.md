@@ -1,8 +1,8 @@
 ---
-id: sgkncyd5j69ywcebh2r4y18
-title: Anki as journal
+id: f6om0ntttk8x3o0bjzsmpzq
+title: anki as journal
 desc: ''
-updated: 1689847954863
+updated: 1689955334013
 created: 1689847949168
 ---
 

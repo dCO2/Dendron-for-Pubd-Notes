@@ -1,8 +1,8 @@
 ---
 id: 7p6hva6eyf70ms6o98jk8ht
-title: Anki Helps Plant a Thought
+title: anki helps plant a thought
 desc: ''
-updated: 1689849264999
+updated: 1689955695841
 created: 1689849244825
 ---
 
