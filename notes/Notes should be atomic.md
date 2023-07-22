@@ -1,8 +1,8 @@
 ---
 id: vix2ukmtuqu5xg3jiyl8e7t
-title: Notes Should Be Atomic
+title: notes should be atomic
 desc: ''
-updated: 1689848227965
+updated: 1689957720858
 created: 1689848220186
 ---
 

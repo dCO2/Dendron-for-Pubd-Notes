@@ -1,8 +1,8 @@
 ---
 id: lkca7q42srlb41ylnmo0p41
-title: Make Many Fleeting Notes
+title: make many fleeting notes
 desc: ''
-updated: 1689954903274
+updated: 1689957769085
 created: 1689954865883
 ---
 
