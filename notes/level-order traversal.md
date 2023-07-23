@@ -1,7 +1,7 @@
 ---
 id: 2p9ilknv5zi5oukv30b0dgv
-title: Level Order Traversal
+title: level order traversal
 desc: ''
-updated: 1688158116610
+updated: 1690137550105
 created: 1688158116610
 ---

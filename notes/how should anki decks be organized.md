@@ -1,8 +1,8 @@
 ---
 id: b0flxzhvnxhpuc9w8eca3hi
-title: How Should Anki Decks Be Organized
+title: how should anki decks be organized
 desc: ''
-updated: 1689848569823
+updated: 1690137534342
 created: 1689805279361
 ---
 
