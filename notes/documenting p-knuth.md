@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1690575497425
+updated: 1690616437778
 created: 1687939612373
 ---
 
@@ -33,7 +33,7 @@ created: 1687939612373
 - Restate problem statement for algorithms in your own words (i.e., compress them)
   - For example, despite the long plot for the problem in [Leetcode 198 - House Robber](https://leetcode.com/problems/house-robber/), the task is basically to _design an algorithm that makes a selection of numbers in an array such that the sum of the selected numbers is maximum but adjacent numbers cannot be selected_.
   - A compressed statement then is; _select maximum sum of non-adjacent numbers from given array_.
-- It is usually the case that it is the thought process towards a solution (EDIT: or rather, it is the conditions, dependencies, reasons, intent, hows, whys (why this condition in the for loop), &.c within the code for the algorithm/solution) for a problem that one would want to remember. This is most times difficult to do for non-simple problems or for a beginner.
+- It is usually the case that it is the thought process towards a solution (EDIT: or rather, it is the conditions, dependencies, reasons, intent, hows, whys (why this condition in the for loop), &c. within the code for the algorithm/solution) for a problem that one would want to remember. This is most times difficult to do for non-simple problems or for a beginner.
 - It is also important to understand that algorithms designed with the technical interview process in mind are not in their final form. They could be modified into shorter and easier-to-think-about code by employing the programming language's standard library. Employing this standard algorithms library is a skill.
   - For example... "_Design an algorithm that, given the head of an unsorted linked list of integers, returns the head to the linked list sorted using insertion sort_"
   - To solve this, if the input is not a linked list but an array, one could go on and implement the insertion sort procedure. But it is usually better to employ standard lbrary algorithm. The algorithm below is an implementation of the insertion sort procedure on an array, making use of the `std::rotate`, `std::upper_bound`, and `std::next` algorithms in c++.
