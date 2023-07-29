@@ -84,6 +84,7 @@ publishing:
     theme: custom
     siteUrl: https://caleb-d0.netlify.app
     enableFMTitle: true
+    customHeaderPath: header.html
     enableNoteTitleForLink: true
     enablePrettyRefs: true
     enableHierarchyDisplay: false
