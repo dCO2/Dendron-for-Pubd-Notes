@@ -2,7 +2,7 @@
 id: v8ay60viiedly293nqkmfl6
 title: documenting project-knuth
 desc: ''
-updated: 1690575497425
+updated: 1690636028065
 created: 1687939612373
 ---
 
@@ -62,3 +62,4 @@ created: 1687939612373
   - (written after attempting the [Merge Intervals](https://leetcode.com/problems/merge-intervals/) problem)
     - I was too unsure the step I was taking led to a solution
 
+- **_backtracking_** is conditional recursion?  
