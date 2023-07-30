@@ -86,6 +86,7 @@ publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
+    enableHierarchyDisplay: false
     enableKatex: true
     copyAssets: true
     siteHierarchies:
