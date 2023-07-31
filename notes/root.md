@@ -1,7 +1,7 @@
 ---
 id: root
 title: Hello!
-desc: "linked & atomic notes documenting rough thoughts on design choice in projects"
+desc: linked & atomic notes documenting rough thoughts on design choice in projects
 updated: 1690615489187
 created: 1595961348801
 ---
