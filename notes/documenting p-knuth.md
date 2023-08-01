@@ -2,7 +2,7 @@
 id: 6t1kh5r5dr6hn6a9rcb76cc
 title: documenting p-knuth
 desc: ''
-updated: 1690796473626
+updated: 1690907280105
 created: 1690796396798
 ---
 
@@ -49,9 +49,6 @@ created: 1690796396798
 - it is best to "remember" the outline of the (coded) solution to each problem—which is easier to do when you actually understand the solution—so that it is easier to think about a solution for related problems which (by definition) should build upon (or be similar to) the coded solution for the initial problem.
   - The coded solution for the [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem is similar to that of [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) such that if the former is solved before the latter and the solution remembered, it is easy to implement the solution for the latter since relatively little thinking/figuring-out will be required.
   - Also for [Number of Islands](https://leetcode.com/problems/number-of-islands) and [Max Area of Island](https://leetcode.com/problems/max-area-of-island/).
-- [[What is the pattern in the way decision trees are used to think about solution to problems]]
-- [[What is the pattern in the code for algorithms that solve backtracking problems]]
-- [[What is the pattern in the repeated work of problems that can be solved using dynamic programming]]?
 - we don't care about puzzles or finding the patterns of algorithm design thinking in our household lives because we don't particularly care about optimization; the data is not fully available at our grasp at any given moment &c. But for companies whose profit or life & death status is dependent on how well they cut their losses, optimization is important.
 - I think it is best to play around the solution of an algorithm problem as a beginner (if you don't want to move fast), this way you get a feel of the breadth or landscape of the (mathematical) patterns in the problem.
 - (leet)coders tutoring on youtube are not teachers, beginners will get the wrong impression that that [top-down coding] with ease is how problems are solved. ([[on the difficulty of communication]])
@@ -62,4 +59,8 @@ created: 1690796396798
   - (written after attempting the [Merge Intervals](https://leetcode.com/problems/merge-intervals/) problem)
     - I was too unsure the step I was taking led to a solution
 
-- **_backtracking_** is conditional recursion? 
+- **_[[backtracking]]_** is retraced recursion ([[thinking non-intuitively about recursion]])
+- [[What is the pattern in the way decision trees are used to think about solution to problems]]?
+- [[What is the pattern in the code for algorithms that solve backtracking problems]]?
+- [[What is the pattern in the repeated work of problems that can be solved using dynamic programming]]?
+ 
