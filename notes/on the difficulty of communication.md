@@ -2,11 +2,11 @@
 id: nu92180mvzd1gfffee73qvj
 title: on the difficulty of communication
 desc: ''
-updated: 1691265928836
+updated: 1691337080885
 created: 1689081534179
 ---
 
-There's something you'll do to your ears or the muscles of your eardrums that will make it possible for you to hear (more clearly) whatever happens inside your head (or more accurately; inside your _nasal cavity_). As if you turned your ears inside-out; Your voice, your chewing, your hum, etc.^anchor-one
+There's something you'll do to your ears or the muscles of your eardrums that will make it possible for you to hear (more clearly) whatever happens inside your head (or more accurately; inside your _nasal cavity_). As if you turned your ears inside-out; your voice, your chewing, your hum, etc.^anchor-one
 
 I've never read this somewhere and this is not common knowledge in my social groups because there's no particular "use" for this information; there's no name we've given the act of doing this. I've probably not searched the internet though, but this is the point: There are many (common) phenomena like this about our bodies or experience in general that is not immediately a part of the societal(or communal) consciousness (information that I know you know, we know), but becomes so if someone names the phenomenon.
 
