@@ -2,7 +2,7 @@
 id: 6t1kh5r5dr6hn6a9rcb76cc
 title: documenting p-knuth
 desc: ''
-updated: 1690907280105
+updated: 1691417094936
 created: 1690796396798
 ---
 
@@ -63,4 +63,3 @@ created: 1690796396798
 - [[What is the pattern in the way decision trees are used to think about solution to problems]]?
 - [[What is the pattern in the code for algorithms that solve backtracking problems]]?
 - [[What is the pattern in the repeated work of problems that can be solved using dynamic programming]]?
- 
