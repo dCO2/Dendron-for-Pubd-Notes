@@ -2,11 +2,11 @@
 id: 6mxdmp3neuhuxzugon2bpzz
 title: how do you dynamically change the font and font-size
 desc: ''
-updated: 1687802151947
+updated: 1691611584304
 created: 1687169675276
 ---
 
-It appears that Codemirror works with injected themes to change its look.
+It appears that to style a Codemirror editor, the desired styles/themes have to be injected into the EditorView.
 
 This is a sample theme that sets (on the editor), a fontsize, adds border, sets font-family, etc... 
 
