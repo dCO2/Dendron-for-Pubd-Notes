@@ -2,7 +2,7 @@
 id: 6t1kh5r5dr6hn6a9rcb76cc
 title: documenting p-knuth
 desc: ''
-updated: 1691417094936
+updated: 1692104412820
 created: 1690796396798
 ---
 
@@ -63,3 +63,6 @@ created: 1690796396798
 - [[What is the pattern in the way decision trees are used to think about solution to problems]]?
 - [[What is the pattern in the code for algorithms that solve backtracking problems]]?
 - [[What is the pattern in the repeated work of problems that can be solved using dynamic programming]]?
+- It is curious that I have not come across or solved a lot of Simulation problems _(like [Robot Bounded In Circle
+](https://leetcode.com/problems/robot-bounded-in-circle/)_ or []()). OR RATHER, I have not primed myself to think about identifying them in interviews. So, I was a bit unsure what step to take when I encountered two simulations problems (which I didn't initially classify) in a GS interview. `August 15th`
+  - But it turns out I have solved about 9 of these through Leetcode (_Spiral Matrix II, Game of Life, Fizz Buzz, Baseball Game, Asteroid Collision, Backspace String Compare, Validate Stack Sequences, Shift 2D Grid, Build Array from Permutation_)
