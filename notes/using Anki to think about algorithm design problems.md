@@ -2,7 +2,7 @@
 id: hi2l7n37cbjxkhvarw9gxrk
 title: using Anki to think about algorithm design problems
 desc: ''
-updated: 1692112302787
+updated: 1692183007513
 created: 1692099748781
 ---
 
@@ -21,3 +21,6 @@ created: 1692099748781
       - How do I set any of `Learning steps`, `Graduating Interval`, `Easy Interval`, `Insertion Order`; `Relearning Steps`, `Minimum Interval`, `Leech Threshold`, `Leech Action`, `Maximum Interval`, `Starting Ease`,  `Easy bonus`, `Interval Modifier`, `Hard Interval`, `New Interval`, so that on day 1 after seeing cards; (_Merge K Lists_, _Subsets_, and _Search a 2D Matrix_ ~+ _Kth Largest Element in an Array_ for example), I still see some of them on day 2 and a new one, even less of them and some more new cards on day 3. So that by the end of week 1, I very rarely see them again.
   - Something is wrong. I'm stiil seeing more than 3 cards per day from the new deck.
     - At this moment, my _Buffer_ superdeck has a _due decks_ number of 42, but all the subdecks have a total of 23 _due decks_. The diff commes from the new ADP subdeck. It seems the options preset didn't work.
+      - The temporary solution is; reduce the Maximum reviews per day for the _Buffer_ superdeck from 1000 to 20.
+  - It is day 2 (`August 16th`) and I did not come across the cards from day 1 I was expecting.  
+
