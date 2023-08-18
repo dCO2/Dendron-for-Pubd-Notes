@@ -2,11 +2,11 @@
 id: kc6xtq69qrdrpxvogivw06d
 title: Daemon
 desc: ''
-updated: 1692274889047
+updated: 1692346703699
 created: 1692274389830
 ---
 
-Majority of my knowledge about daemons! (through GPT-3.5), Ah!:
+Majority of my knowledge about daemons (through GPT-3.5), Ah!:
 
 **Prompt**: "Can you give me an implemented example of a daemon from the linux operating system?"  
 
