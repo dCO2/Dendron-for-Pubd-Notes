@@ -2,7 +2,7 @@
 id: 6t1kh5r5dr6hn6a9rcb76cc
 title: documenting p-knuth
 desc: ''
-updated: 1692203071053
+updated: 1692447800726
 created: 1690796396798
 ---
 
@@ -54,16 +54,19 @@ created: 1690796396798
 - (leet)coders tutoring on youtube are not teachers, beginners will get the wrong impression that that [top-down coding] with ease is how problems are solved. ([[on the difficulty of communication]])
   - [this is a good example](https://youtu.be/yiAaGRWdqVA) of a youtuber thinking through a problem?
   - including some from [exponent](https://www.youtube.com/@tryexponent/videos)
+  - "leetcode tutorials," instead, could be "journals" of the exploration towards a solution, rather than an exposé of the solution..
+    - the problem is? we don't have all the time.
+    - I seem to have a sub-good illustration of this through the _[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)_ problem.
 - how do you convince yourself with quick proofs that the algorithm you're blindly putting together will compile and give the correct results?
   - this is very important and is one the reasons some problems feel difficult.. they feel tricky because you cannot prove to yourself that so and so step that you envision will be "correct" and you don't eventually foray into that path or you probably couldn't even see it. ([Integer Break](https://leetcode.com/problems/integer-break/))
   - (written after attempting the [Merge Intervals](https://leetcode.com/problems/merge-intervals/) problem)
     - I was too unsure the step I was taking led to a solution
-
 - **_[[backtracking]]_** is retraced recursion ([[thinking non-intuitively about recursion]])
 - [[What is the pattern in the way decision trees are used to think about solution to problems]]?
 - [[What is the pattern in the code for algorithms that solve backtracking problems]]?
 - [[What is the pattern in the repeated work of problems that can be solved using dynamic programming]]?
 - It is curious that I have not come across or solved a lot of Simulation problems _(like [Robot Bounded In Circle
-](https://leetcode.com/problems/robot-bounded-in-circle/)_ or []()). OR RATHER, I have not primed myself to think about identifying them in interviews. So, I was a bit unsure what step to take when I encountered two simulations problems (which I didn't initially classify) in a GS interview. `August 15th`
+](https://leetcode.com/problems/robot-bounded-in-circle/)_ or []()). OR RATHER, I have not primed myself to think about identifying them in interviews. So, I was a bit unsure what step to take when I encountered two simulation problems (which I didn't initially classify) in a GS interview. `August 15th`
   - But it turns out I have solved about 9 of these through Leetcode (_Spiral Matrix II, Game of Life, Fizz Buzz, Baseball Game, Asteroid Collision, Backspace String Compare, Validate Stack Sequences, Shift 2D Grid, Build Array from Permutation_)
 - A good problem: _[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)_
+- You try to learn these things in such a way that whatever is learnt, however meager, is transferrable in obtaining the solution to other problems.
