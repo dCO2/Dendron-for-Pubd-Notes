@@ -2,7 +2,7 @@
 id: hi2l7n37cbjxkhvarw9gxrk
 title: using Anki to think about algorithm design problems
 desc: ''
-updated: 1692392624500
+updated: 1692563940453
 created: 1692099748781
 ---
 
@@ -24,4 +24,4 @@ created: 1692099748781
       - The temporary solution is; reduce the Maximum reviews per day for the _Buffer_ superdeck from 1000 to 20.
   - It is day 2 (`August 16th`) and I did not come across the cards from day 1 I was expecting.  
   - (`August 18th`): I have now "buried" the cards that are due tomorrow so that I, instead, come across **ONLY** the required 3(+1) cards I want to keep tabs on.  
-
+  - (`August 20th`): I have to continue burying the unwanted cards to get to see what I want.
