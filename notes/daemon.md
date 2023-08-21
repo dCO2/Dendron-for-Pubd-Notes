@@ -1,8 +1,8 @@
 ---
 id: kc6xtq69qrdrpxvogivw06d
-title: Daemon
+title: daemon
 desc: ''
-updated: 1692346703699
+updated: 1692649204841
 created: 1692274389830
 ---
 
