@@ -2,7 +2,7 @@
 id: 6t1kh5r5dr6hn6a9rcb76cc
 title: documenting p-knuth
 desc: ''
-updated: 1692447800726
+updated: 1692963372928
 created: 1690796396798
 ---
 
@@ -54,6 +54,7 @@ created: 1690796396798
 - (leet)coders tutoring on youtube are not teachers, beginners will get the wrong impression that that [top-down coding] with ease is how problems are solved. ([[on the difficulty of communication]])
   - [this is a good example](https://youtu.be/yiAaGRWdqVA) of a youtuber thinking through a problem?
   - including some from [exponent](https://www.youtube.com/@tryexponent/videos)
+  - A much better example!: [Errichto solves the Valid Parenthesis String problem](https://youtu.be/piT58dNLPhg)
   - "leetcode tutorials," instead, could be "journals" of the exploration towards a solution, rather than an exposé of the solution..
     - the problem is? we don't have all the time.
     - I seem to have a sub-good illustration of this through the _[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)_ problem.
