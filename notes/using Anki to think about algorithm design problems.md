@@ -2,7 +2,7 @@
 id: hi2l7n37cbjxkhvarw9gxrk
 title: using Anki to think about algorithm design problems
 desc: ''
-updated: 1693075609702
+updated: 1693075644148
 created: 1692099748781
 ---
 
@@ -26,4 +26,4 @@ created: 1692099748781
   - (`August 18th`): I have now "buried" the cards that are due tomorrow so that I, instead, come across **ONLY** the required 3(+1) cards I want to keep tabs on.  
   - (`August 20th`): I have to continue burying the unwanted cards to get to see what I want.
   - (`August 24th`): still haven't figured this out properly yet.
-  - (`August 24th`): status: put on hold
+  - (`August 26th`): status: put on hold
