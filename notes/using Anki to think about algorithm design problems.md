@@ -2,7 +2,7 @@
 id: hi2l7n37cbjxkhvarw9gxrk
 title: using Anki to think about algorithm design problems
 desc: ''
-updated: 1693231674792
+updated: 1693232970327
 created: 1692099748781
 ---
 
@@ -10,9 +10,13 @@ created: 1692099748781
 - There's not much special about using Anki to think about algorithm problems (aka leetcode practice). The motivation for the use is simply to help remember whatever should be remembered when thinking towards a solution to a problem. "Whatever should be remembered" includes any of; problem statement, constraints, solution, etc.
   - ![[documenting p-knuth#^anchor-what-to-rember]]
   - ![[documenting p-mnemosyne#^anchor-chunked-info]]
+  - What is exciting though is the possibilities of designing some cognitive tool that'll help make algorithm design practice **MORE** and even more effective. This **MORE** is possible. How?
 - Inquiry: If one is proficient at implementing the solution to a related problem, what can be said about the solution of the initial problem in relation to the solution of the related problem? Will be the solution for the 'initial' be necessarily clunky? Is there a always a simpler solution?
   - _Binary Tree Level Order Traversal_ vs _Binary Tree Right Side View_
   - ![[documenting p-knuth#^anchor-relatedvsinitial]]
+
+#### Methods 
+- #todo
 
 #### Journal
 - 2021-2022 Era: "Design an algorithm that..."
