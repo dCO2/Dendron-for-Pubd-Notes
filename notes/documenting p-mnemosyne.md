@@ -2,7 +2,7 @@
 id: 1zmomff28z01qqxek8kouyl
 title: documenting project mnemosyne
 desc: ''
-updated: 1689954951602
+updated: 1693230439410
 created: 1687938864599
 ---
 
@@ -127,7 +127,7 @@ See [[A gallery of various personal notes|gallery-of-various-personal-notes]]
 ## 4. Conclusions
 - What was my initial want/hope for my SRS system with Anki?
 - Did I achieve that want?
-  - One thing I wanted to achieve is to be able to think about a good number of chunked information simultaneously so that I could easily draw-out relationships between the various information.
+  - One thing I wanted to achieve was to be able to think about a good number of chunked information simultaneously so that I could easily draw-out relationships between the various information.^anchor-chunked-info
     - So that, for example, when one thinks about coming up with a solution for an algorithm design problem, you are easily reminded of similar problems and an idea for a solution becomes close at hand.
     - E.g., it will be nice to be able to easily see how solutions to the following problems on binary trees are related. Doing this involves being able to think about the chunked detail of each solution simultaneously:
     - _Given binary tree determine if there is a path with nodes that sum to a target number._

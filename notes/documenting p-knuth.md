@@ -2,7 +2,7 @@
 id: 6t1kh5r5dr6hn6a9rcb76cc
 title: documenting p-knuth
 desc: ''
-updated: 1692963372928
+updated: 1693230072094
 created: 1690796396798
 ---
 
@@ -33,7 +33,7 @@ created: 1690796396798
 - Restate problem statement for algorithms in your own words (i.e., compress them)
   - For example, despite the long plot for the problem in [Leetcode 198 - House Robber](https://leetcode.com/problems/house-robber/), the task is basically to _design an algorithm that makes a selection of numbers in an array such that the sum of the selected numbers is maximum but adjacent numbers cannot be selected_.
   - A compressed statement then is; _select maximum sum of non-adjacent numbers from given array_.
-- It is usually the case that it is the thought process towards a solution (EDIT: or rather, it is the conditions, dependencies, reasons, intent, hows, whys (why this condition in the for loop), &.c within the code for the algorithm/solution) for a problem that one would want to remember. This is most times difficult to do for non-simple problems or for a beginner.
+- It is usually the case that it is the thought process towards a solution (EDIT: or rather, it is the conditions, dependencies, reasons, intent, hows, whys (why this condition in the for loop), &.c within the code for the algorithm/solution) for a problem that one would want to remember. This is most times difficult to do for non-simple problems or for a beginner.^anchor-what-to-rember
 - It is also important to understand that algorithms designed with the technical interview process in mind are not in their final form. They could be modified into shorter and easier-to-think-about code by employing the programming language's standard library. Employing this standard algorithms library is a skill.
   - For example... "_Design an algorithm that, given the head of an unsorted linked list of integers, returns the head to the linked list sorted using insertion sort_"
   - To solve this, if the input is not a linked list but an array, one could go on and implement the insertion sort procedure. But it is usually better to employ standard lbrary algorithm. The algorithm below is an implementation of the insertion sort procedure on an array, making use of the `std::rotate`, `std::upper_bound`, and `std::next` algorithms in c++.
@@ -46,7 +46,7 @@ created: 1690796396798
 - coding problems are puzzles you solve by thinking/tinkering first, without code. after you've got the solution, you translate the idea you've got into code. the most useful/transferrable learning comes in this stage.
   - curiously, there's no way to accurately decouple the puzzle-solving process from the translation process because you inevitably think in code. you think in the affordances & constraints of your programming language; "is there a way to do this easily, with a few characters of code in python? etc" the two are conceptually separate and yet bound.
   - [Leetcode problem 2551](https://leetcode.com/problems/put-marbles-in-bags/) (Put Marbles in Bags) illustrates this
-- it is best to "remember" the outline of the (coded) solution to each problem—which is easier to do when you actually understand the solution—so that it is easier to think about a solution for related problems which (by definition) should build upon (or be similar to) the coded solution for the initial problem.
+- it is best to "remember" the outline of the (coded) solution to each problem—which is easier to do when you actually understand the solution—so that it is easier to think about a solution for related problems which (by definition) should build upon (or be similar to) the coded solution for the initial problem.^anchor-relatedvsinitial
   - The coded solution for the [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem is similar to that of [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) such that if the former is solved before the latter and the solution remembered, it is easy to implement the solution for the latter since relatively little thinking/figuring-out will be required.
   - Also for [Number of Islands](https://leetcode.com/problems/number-of-islands) and [Max Area of Island](https://leetcode.com/problems/max-area-of-island/).
 - we don't care about puzzles or finding the patterns of algorithm design thinking in our household lives because we don't particularly care about optimization; the data is not fully available at our grasp at any given moment &c. But for companies whose profit or life & death status is dependent on how well they cut their losses, optimization is important.
