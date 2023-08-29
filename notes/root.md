@@ -2,13 +2,13 @@
 id: root
 title: Hello!
 desc: linked & atomic notes documenting rough thoughts on design choice in projects
-updated: 1690615489187
+updated: 1693308249811
 created: 1595961348801
 ---
 
-This is [Caleb's](https://caleb-x0.netlify.app/) public notes page. Not quite a [digital garden](https://github.com/MaggieAppleton/digital-gardeners), and also unlike [Andy's working notes](https://notes.andymatuschak.org/About_these_notes).
+You've stumbled on [Caleb's](https://caleb-x0.netlify.app/) public notebook. You can conceive of this as a sketchbook—i.e., rough, incomplete, and sometimes sparse. Hence, you might not get the full-gist of any one random page in the notebook. It is meant to help me elaborate/consolidate my work & thoughts as a software engineer. This is not quite a [digital garden](https://maggieappleton.com/garden-history), and also unlike [Andy's working notes](https://notes.andymatuschak.org/About_these_notes).
 
-One reason I'm experimentally implementing this is to understand if & how "quick, linked, and atomic" note-taking can help realize, remember, & learn (how to make better) design decisions when working on quick (or slow) software engineering projects. Of course, it does help but this is a demonstration of exactly how it helps. This is the initial reason for publishing these notes. With time, they might document other [[projects]].
+I built this (experimentally & publicly) with (Dendron](https://www.dendron.so/), specifically, to understand if & how "quick, linked, and atomic" note-taking can help realize, remember, & learn (how to make better) design decisions when working on quick (or slow) software engineering projects. Of course, it does help—that makes this is a demonstration of exactly how it helps.
 
-_Why not [Obsidian Publish](https://obsidian.md/publish)? (It is Priced)._  
-_Why not your existing website? (It is old, doesn't have desired features)_
+Check out my growing list of [[projects]]!
+
