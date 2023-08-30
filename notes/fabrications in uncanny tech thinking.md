@@ -2,7 +2,7 @@
 id: qbye8d5zk4xr26jnu2g5t6q
 title: Fabrications in Uncanny Tech Thinking
 desc: ''
-updated: 1692783046282
+updated: 1693410162952
 created: 1688655234589
 ---
 
@@ -18,3 +18,4 @@ _`for now;`_ `'tech' as in procedural digital-world; not as in oil-drilling or n
 - A website's not a singleton Blackboard that everyone has read & write access to. But then how do you implement such a blackboard?
   - Figma
   - [[WebSockets]]
+- [[font catalog]]
