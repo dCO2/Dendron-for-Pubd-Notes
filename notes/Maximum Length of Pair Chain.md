@@ -1,8 +1,8 @@
 ---
 id: tes79cf8j5vtqxjg1d1ulru
-title: Maximum Length of Pair Chain
+title: maximum length of pair chain
 desc: ''
-updated: 1693474319165
+updated: 1693479952355
 created: 1693474206527
 ---
 
