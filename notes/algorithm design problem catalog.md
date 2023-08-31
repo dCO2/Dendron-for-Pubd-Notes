@@ -1,0 +1,435 @@
+---
+id: 3l0zqgem0zgbxpio7yubx04
+title: algorithm design problem catalog
+desc: ''
+updated: 1693476696304
+created: 1693471719185
+---
+
+#### From LeetCode
+
+- [[Minimum Number of Taps to Open to Water a Garden]]
+- [[Minimum Operations to Make the Array Increasing]]
+- [[Minimum Replacements to Sort the Array]]
+- [[Minimum Penalty For a Shop]]
+- [[Frog Jump]]
+- [[Maximum Length of Pair Chain]]
+- [[Interleaving String]]
+- [[Text Justification]]
+- [[Reorganize String]]
+- [[Excel Sheet Column Title]], [[Excel Sheet Column Number]]
+- [[Repeated Substring Pattern]]
+- [[Non-overlapping Intervals]]
+- [[Maximum Number of Events That Can Be Attended]]
+
+- Add Two Numbers
+- Longest Substring Without Repeating Characters
+- Median of Two Sorted Arrays
+- Longest Palindromic Substring
+- Palindrome Number
+- Regular Expression Matching
+- [[Container Filled With Most Water]]
+- Longest Common Prefix
+- 3Sum
+- 3Sum Closest
+- Letter Combinations of a Phone Number
+- Remove Nth Node From End of List
+- Valid Parentheses
+- Merge Two Sorted Lists
+- Generate Parentheses
+- Merge k Sorted Lists
+- Swap Nodes in Pairs
+- Reverse Nodes in k-Group
+- Remove Duplicates from Sorted Array
+- Next Permutation
+- Longest Valid Parentheses
+- Search in Rotated Sorted Array
+- Find First and Last Position of Element in Sorted Array
+- Search Insert Position
+- Valid Sudoku
+- Sudoku Solver
+- Count and Say
+- [[Combination Sum II]]
+- First Missing Positive
+- Trapping Rain Water
+- Multiply Strings
+- Jump Game II
+- [[Permutations]]
+- [[Permutations II]]
+- Rotate Image
+- Group Anagrams
+- Pow(x, n)
+- N-Queens
+- N-Queens II
+- [[Maximum Subarray]]
+- Spiral Matrix
+- [[Jump Game]]
+- [[Merge Intervals]]
+- [[Insert Interval]]
+- Spiral Matrix II
+- [[Permutation Sequence]]
+- Rotate List
+- Unique Paths
+- Unique Paths II
+- Minimum Path Sum
+- Valid Number
+- Plus One
+- Add Binary
+- St(x)
+- Climbing Stairs
+- Simplify Path
+- Edit Distance
+- Set Matrix Zeroes
+- Search a 2D Matrix (Search a sorted 2D Matrix for a target)
+- [[Sort Colors]]
+- Minimum Window Substring
+- [[Combinations]]
+- [[Subsets]]
+- [[Word Search]]
+- [[Remove Duplicates from Sorted Array II]]
+- [[Search in Rotated Sorted Array II]]
+- [[Remove Duplicates from Sorted List II]]
+- [[Remove Duplicates from Sorted List]]
+- [[Largest Rectangle in Histogram]]
+- [[Maximal Rectangle]]
+- [[Partition List]]
+- [[Subsets II]]
+- [[Reverse Linked List II]]
+- [[Restore IP Addresses]]
+- [[Binary Tree Inorder Traversal]]
+- [[Unique Binary Search Trees II]]
+- Unique Binary Search Trees
+- Interleaving String
+- Validate Binary Search Tree
+- Recover Binary Search Tree
+- Same Tree
+- Symmetric Tree
+- Binary Tree Level Order Traversal
+- Binary Tree Zigzag Level Order Traversal
+- Maximum Depth of Binary Tree
+- Construct Binary Tree from Preorder and Inorder Traversal
+- Construct Binary Tree from Inorder and Postorder Traversal
+- Binary Tree Level Order Traversal II
+- Convert Sorted Array to Binary Search Tree
+- Convert Sorted List to Binary Search Tree
+- Balanced Binary Tree
+- Minimum Depth of Binary Tree
+- Path Sum
+- Path Sum II
+- Flatten Binary Tree to Linked List
+- Distinct Subsequences
+- Populating Next Right Pointers in Each Node
+- Populating Next Right Pointers in Each Node II
+- Pascal's Triangle
+- Pascal's Triangle II
+- Triangle
+- Best Time to Buy and Sell Stock
+- Best Time to Buy and Sell Stock II
+- Best Time to Buy and Sell Stock III
+- Binary Tree Maximum Path Sum
+- Word Ladder II
+- Word Ladder
+- Longest Consecutive Sequence
+- Sum Root to Leaf Numbers
+- Surrounded Regions
+- Palindrome Partitioning
+- Palindrome Partitioning II
+- [[Clone a graph]]
+- Gas Station
+- Candy
+- Single Number
+- Single Number II
+- Copy List with Random Pointer
+- Word Break
+- Word Break II
+- Linked List Cycle
+- Linked List Cycle II
+- Reorder List
+- Binary Tree Preorder Traversal
+- Binary Tree Postorder Traversal
+- LRU Cache
+- [[Insertion Sort List]]
+- Sort List
+- Max Points on a Line
+- Evaluate Reverse Polish Notation
+- Maximum Product Subarray
+- Find Minimum in Rotated Sorted Array
+- Find Minimum in Rotated Sorted Array II
+- Min Stack
+- Intersection of Two Linked Lists
+- Maximum Gap
+- [[Two Sum II]] - Input array is sorted
+- Majority Element
+- Dungeon Game
+- Largest Number
+- Repeated DNA Sequences         
+- Best Time to Buy and Sell Stock IV
+- Rotate Array
+- Reverse Bits            
+- Number of 1 Bits            
+- [[House Robber]]
+- Binary Tree Right Side View
+- [[Number of Islands]]
+- [[Bitwise AND of Numbers Range]]
+- [[Happy Number]]
+- Remove Linked List Elements
+- Count Primes
+- Isomorphic Strings
+- Reverse Linked List            
+- Course Schedule
+- Implement Trie (Prefix Tree)            
+- [[Minimum Size Subarray Sum]]
+- Course Schedule II
+- Design Add and Search Words Data Structure
+- Word Search II
+- House Robber II
+- Shortest Palindrome
+- Kth Largest Element in an Array
+- [[Combination Sum III]]
+- Contains Duplicate
+- The Skyline Problem
+- [[Maximal Square]]
+- Count Complete Tree Nodes
+- Rectangle Area
+- Basic Calculator
+- Implement Stack using Queues
+- Invert Binary Tree
+- Basic Calculator II
+- Summary Ranges
+- Majority Element II
+- Kth Smallest Element in a BST
+
+
+#### From EPI
+
+01. Primitive types
+	- [[compute the parity of a word]]
+	- [[swap bits]]
+	- [[reverse bits]]
+	- [[find a closest integer with the same weight]]
+	- [[compute x * y without arithmetical operators]]
+	- [[compute x/y]]
+	- [[compute xy]]
+	- [[reverse digits]]
+	- [[check if a decimal integer is a palindrome]]
+	- [[generate uniform random numbers]]
+	- [[rectangle intersection]]
+02. Arrays [[ADP related to arrays]]
+
+03. Strings [[ADP related to strings]]
+	- [[Interconvert strings and integers]]
+	- [[Base conversion]]
+	- [[Compute the spreadsheet column encoding]]
+	- [[Replace and remove]]
+	- [[Test palindromicity]]
+	- [[Reverse all the words in a sentence]]
+	- [[Compute all mnemonics for a phone number]]
+	- [[The look-and-say problem]]
+	- [[Convert from Roman to decimal]]
+	- [[Compute all valid IP addresses]]
+	- [[Write a string sinusoidally]]
+	- [[Implement run-length encoding]]
+	- [[Find the first occurrence of a substring]] 
+04. Linked Lists [[ADP related to linked lists]]
+	- sort a LL
+	- insertion sort a LL
+	- reverse a LL
+	- reverse a sequence in a linked list
+	- merge two sorted LLs
+	- [[merge two sorted lists]] ✔
+	- [[reverse a single sublist]] 
+	- [[test for cyclicity]] ✔
+	- [[test for overlapping lists—lists are cycle-free]]
+	- [[test for overlapping lists—lists may have cycles]]
+	- [[delete a node from a singly linked list]]
+	- [[remove the kth last element from a list]] ✔
+	- [[remove duplicates from a sorted list]] ✔
+	- [[implement cyclic right shift for singly linked lists]] ✔
+	- [[implement even-odd merge]]
+	- [[test whether a singly linked list is palindromic]] ✔
+	- [[implement list pivoting]] ✔
+	- [[add list-based integer]] ✔
+6. Stacks and Queues [[ADP related to stacks and queues]]
+	- [[implement a stack with max API]]
+	- [[evaluate RPN expressions]]
+	- [[test a string for well-formedness]]
+	- [[normalize pathnames]]
+	- [[Compute buildings with a sunset view]]
+	- [[Compute binary tree nodes in order of increasing depth]]
+	- [[Implement a circular queue]]
+	- [[Implement a queue using stacks]]
+	- [[Implement a queue with max API]]
+7. Binary Trees [[ADP related to binary trees]]
+
+8. Heaps [[ADP related to heaps]]
+	- [[Merge sorted files]]
+	- [[Sort an increasing-decreasing array]]
+	- [[Sort an almost-sorted array]]
+	- [[Compute the k closest stars]]
+	- [[Compute the median of online data]]
+	- [[Compute the k largest elements in a max-heap]]
+9. Searching [[ADP related to searching]]
+	- [[Search a sorted array for first occurrence of k]]
+	- [[Search a sorted array for entry equal to its index]]
+	- [[Search a cyclically sorted array]]
+	- [[Compute the integer square root]]
+	- [[Compute the real square root]]
+	- [[Search in a 2D sorted array]]
+	- [[Find the min and max simultaneously]]
+	- [[Find the kth largest element]]
+	- [[Find the missing IP address]]
+	- [[Find the duplicate and missing elements]]
+10. Hash Tables [[ADP related to hash tables]]
+	- [[Test for palindromic permutations]]
+	- [[Is an anonymous letter constructive?]]
+	- [[Implement an ISBN cache]]
+	- [[Compute the LCA, optimizing for close ancestors]]
+	- [[Find the nearest repeated entries in an array]]
+	- [[Find the smallest subarray covering all values]]
+	- [[Find smallest subarray sequentially covering all values]]
+	- [[Find the longest subarray with distinct entries]]
+	- [[Find the length of a longest contained interval]]
+	- [[Compute all string decompositions]]
+	- [[Test the Collatz conjecture]]
+	- [[Implement a hash function for chess]]
+11. Sorting [[ADP related to sorting]]
+	- [[Compute the intersection of two sorted arrays]]
+	- [[Merge two sorted arrays]]
+	- [[Remove first-name duplicates]]
+	- [[Smallest nonconstructible value]]
+	- [[Render a calendar]]
+	- [[Merging intervals]]
+	- [[Compute the union of intervals]]
+	- [[Partitioning and sorting an array with many repeated entries]]
+	- [[Team photo day—1]]
+	- [[Implement a fast sorting algorithm for lists]]
+	- [[Compute a salary threshold]]
+12. Binary Search Trees [[ADP related to binary search trees]]
+13. Recursion [[ADP related to recursion]]
+	- [[The Towers of Hanoi problem]]
+	- [[Generate all nonattacking placements of n-Queens]]
+	- [[Generate permutations]]
+	- [[Generate the power set]]
+	- [[Generate all subsets of size k]]
+	- [[Generate strings of matched parens]]
+	- [[Generate palindromic decompositions]]
+	- [[Generate binary trees]]
+	- [[Implement a Sudoku solver]]
+	- [[Compute a Gray code]]
+14. Dynamic Programming [[ADP related to dynamic programming]]
+
+15. Greedy Algorithms and Invariants [[ADP related to greedy]]
+	- [[Compute an optimum assignment of tasks]]
+	- [[Schedule to minimize waiting time]]
+	- [[The interval covering problem]]
+	- [[The 3-sum problem]]
+	- [[Find the majority element]]
+	- [[The gasup problem]]
+	- [[Compute the maximum water trapped by a pair of vertical lines]]
+	- [[Compute the largest rectangle under the skyline]]
+16. Graphs [[algorithm problem related to graphs]]
+
+- Parallel Computing
+	- [[Implement caching for a multithreaded dictionary]]
+	- [[Analyze two unsynchronized interleaved threads]]
+	- [[Implement synchronization for two interleaving threads]]
+	- [[Implement a thread pool]]
+	- [[Deadlock]]
+	- [[The readers-writers problem]]
+	- [[The readers-writers problem with write preference]]
+	- [[Implement a Timer class]]
+	- [[Test the Collatz conjecture in parallel]]
+- Design Problems
+	- Design a spell checker
+	- Design a solution to the stemming problem
+	- Plagiarism detector
+	- Pair users by attributes
+	- Design a system for detecting copyright infringement
+	- Design TeX
+	- Design a search engine
+	- Implement PageRank
+	- Design TeraSort and PetaSort
+	- Implement distributed throttling
+	- Design a scalable priority system
+	- Create photomosaics
+	- Implement Mileage Run
+	- Implement Connexus
+	- Design an online advertising system
+	- Design a recommendation system
+	- Design an optimized way of distributing large files
+	- Design the World Wide Web
+	- Estimate the hardware cost of a photo sharing app
+- Language Questions
+	- [[Garbage Collection]]
+	- [[Closure]]
+	- [[Shallow and deep copy]]
+	- [[Iterators and Generators]]
+	- [[decorator]]
+	- [[List vs tuple]]
+	- [[args and kwargs]]
+	- [[Python code]]
+	- [[Exception Handling]]
+	- [[Scoping]]
+	- [[Function arguments]]
+- Object-Oriented Design
+	- [[Template Method vs. Strategy]]
+	- [[Observer pattern]]
+	- [[Push vs. pull observer pattern]]
+	- [[Singletons and Flyweights]]
+	- [[Adapters]]
+	- [[Creational Patterns]]
+	- [[Libraries and design patterns]]
+- Common Tools
+	- [[Merging in a version control system]]
+	- [[Hooks]]
+	- [[Is scripting more efficient?]]
+	- [[Polymorphism with a scripting language]]
+	- [[Dependency analysis]]
+	- [[ANT vs. Maven]]
+	- [[SQLvs.NoSQL]]
+	- [[Normalization]]
+	- [[SQL design]]
+	- [[IP, TCP, and HTTP]]
+	- [[HTTPS]]
+	- [[DNS]]
+- Honors
+	- [[Compute the greatest common divisor]]
+	- [[Find the first missing positive entry]]
+	- [[Buy and sell a stock k times]]
+	- [[Compute the maximum product of all entries but one]]
+	- [[Compute the longest contiguous increasing subarray]]
+	- [[Rotate an array]]
+	- [[Identify positions attacked by rooks]]
+	- [[Justify text]]
+	- [[Implement list zipping]]
+	- [[Copy a postings list]]
+	- [[Compute the longest substring with matching parens]]
+	- [[Compute the maximum of a sliding window]]
+	- [[Implement a postorder traversal without recursion]]
+	- [[Compute fair bonuses]]
+	- [[Search a sorted array of unknown length]]
+	- [[Search in two sorted arrays]]
+	- [[Find the fcth largest element—large n, small k]]
+	- [[Find an element that appears only once]]
+	- [[Find the line through the most points -]]
+	- [[Convert a sorted doubly linked list into a BST]]
+	- [[Convert a BST to a sorted doubly linked list]]
+	- [[Merge two BSTs]]
+	- [[Implement regular expression matching]]
+	- [[Synthesize an expression]]
+	- [[Count inversions]]
+	- [[Draw the skyline]]
+	- [[Measure with defective jugs]]
+	- [[Compute the maximum subarray sum in a circular array -]]
+	- [[Determine the critical height &]]
+	- [[Find the maximum 2D subarray]]
+	- [[Implement Huffman coding]]
+	- [[Trapping Rain Water]]
+	- [[The heavy hitter problem]]
+	- [[Find the longest subarray whose sum < fc]]
+	- [[Road network]]
+	- [[Test if arbitrage is possible]]
+
+
+
+

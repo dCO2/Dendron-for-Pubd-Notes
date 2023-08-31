@@ -2,7 +2,7 @@
 id: y3a2iyw2tzwli11n6t7e2ss
 title: Authentication
 desc: ''
-updated: 1688399690016
+updated: 1693473224972
 created: 1688065677888
 ---
 
@@ -10,7 +10,7 @@ _\#TODO_:
 Skim & Ankify for anything new; [Modern Authentication - Rob Moore](https://youtu.be/X6a9bjNutEw) suggested from https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/.
 
 <details>
-<summary></summary>
+<summary>Toggle</summary>
 
 ![modn-auth-rob-moore-talk-1](/assets/images/modn-auth-rob-moore-talk-1.png)
 
