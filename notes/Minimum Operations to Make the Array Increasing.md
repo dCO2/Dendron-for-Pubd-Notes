@@ -2,7 +2,7 @@
 id: g0hedxejvzy9jso4b3zsggq
 title: minimum operations to make the array increasing
 desc: ''
-updated: 1693473787394
+updated: 1693478889263
 created: 1693472915325
 ---
 
@@ -11,10 +11,8 @@ https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 ```
 Input: nums = [1,1,1]
 Output: 3
-
 Input: nums = [1,5,2,4,1]
 Output: 14
-
 Input: nums = [8]
 Output: 0
 ```
