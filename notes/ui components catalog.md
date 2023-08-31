@@ -1,8 +1,8 @@
 ---
 id: psff2ci061yr6mz92uxzjil
-title: UI Catalog
+title: UI components catalog
 desc: ''
-updated: 1693487849092
+updated: 1693517462450
 created: 1693482722793
 ---
 

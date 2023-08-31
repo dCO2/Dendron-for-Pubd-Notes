@@ -2,7 +2,7 @@
 id: myi5w5hqehiuvd65iyisdu1
 title: Interfaces
 desc: ''
-updated: 1693497987976
+updated: 1693498079328
 created: 1688658911947
 ---
 
@@ -21,7 +21,7 @@ created: 1688658911947
     - The CSS:
       - ![radix-popover-demo-csscode](/assets/images/radix-popover-demo-csscode.png)
     - The number of styles is still a lot (I had the thought that even without a lot of styles, that [[iOS look and feel]] should still be preserved. This is wrong. So, [[what does Radix &co. do?|Ant Design]])
-    - It is quite clear though that it is difficult if not impossible to satisfactorily implement a Popover with bare CSS from scratch. Radix and other UI libraries offer that.
+    - It is quite clear though that it is a lot of work if not impossible to satisfactorily implement a Popover with bare CSS from scratch. Radix and other UI libraries offer that.
     - Without the CSS, this is what Radix offers (the fllwg is from the CandSandbox, hence the slight change in bckgnd):
       - ![radix-popover-demo-withoutcss-1](/assets/images/radix-popover-demo-withoutcss-1.png)
         - onclick:

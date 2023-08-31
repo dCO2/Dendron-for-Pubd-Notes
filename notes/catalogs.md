@@ -8,5 +8,6 @@ created: 1693482572463
 
 [[font catalog]]
 [[color catalog]]
-[[ui catalog]]
+[[ui components catalog]]
+[[ui design catalog]]
 [[algorithm design problem catalog]]
