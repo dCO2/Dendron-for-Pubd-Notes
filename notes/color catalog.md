@@ -16,5 +16,5 @@ _`Firefox's Eyedropper better than any from Chrome?`_
     - `#292d35`
     - ![codeprop-dark](/assets/images/codeprop-dark.png)
 - One of my long-standing favorite colors from p5.js (the reddish band below)
-  - RGBA: `(237, 34, 93, 100)`; #ed225d/1; `#ed225d` 
+  - RGBA: `(237, 34, 93, 100)`; `#ed225d`  
   - ![p5-fav-color](/assets/images/p5-fav-color.png)
