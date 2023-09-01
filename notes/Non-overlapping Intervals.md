@@ -13,6 +13,6 @@ https://leetcode.com/problems/non-overlapping-intervals/
 <summary>Misc Problem Info</summary>
 
 `Difficulty: Medium`  
-`Tags:` [[ADP related to greedy]], [[ADP related to intervals]]
+`Tags:` [[ADP related to greedy]], [[adp related to intervals]]
 
 </details>

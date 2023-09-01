@@ -9,4 +9,4 @@ created: 1693476700324
 
 
 
-([[ADP related to intervals]])
+([[adp related to intervals]])

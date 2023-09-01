@@ -14,6 +14,6 @@ https://leetcode.com/problems/maximum-length-of-pair-chain/
 <summary>Misc Problem Info</summary>
 
 `Difficulty: Medium`  
-`Tags:` [[ADP related to greedy]], [[ADP related to intervals]]
+`Tags:` [[ADP related to greedy]], [[adp related to intervals]]
 
 </details>

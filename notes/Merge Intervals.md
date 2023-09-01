@@ -12,6 +12,6 @@ created: 1693474632511
 <summary>Misc Problem Info</summary>
 
 `Difficulty: Medium`  
-`Tags:` [[ADP related to intervals]]
+`Tags:` [[adp related to intervals]]
 
 </details>

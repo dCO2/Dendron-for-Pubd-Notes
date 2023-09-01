@@ -1,6 +1,6 @@
 ---
 id: cqgtfs5prw1scn7xs8h2ojw
-title: how git works internally
+title: git internals
 desc: ''
 updated: 1693555329200
 created: 1693555329200
@@ -9,7 +9,7 @@ created: 1693555329200
 
 - Where exactly is the git repository?
   <details>
-  <summary>Toggle</summary>
+  <summary>😎</summary>
 
   The git repository is actually the hidden `.git` folder
 
@@ -17,14 +17,14 @@ created: 1693555329200
 
 - What is the data model for a directory in git?
   <details>
-  <summary>Toggle</summary>
+  <summary>😎</summary>
 
   tree objects
 
   </details> 
 - What does `git ls-tree` do?
   <details>
-  <summary>Toggle</summary>
+  <summary>😎</summary>
 
   _It lists the contents of a specified tree object._
 
@@ -43,7 +43,7 @@ created: 1693555329200
   </details> 
 - What does `git commit` do?
   <details>
-  <summary>Toggle</summary>
+  <summary>😎</summary>
 
   _It saves a snapshot of the working directory by creating a tree object in the git repository._
 
@@ -56,7 +56,7 @@ created: 1693555329200
   </details> 
 - What does `git add` do?
   <details>
-  <summary>Toggle</summary>
+  <summary>😎</summary>
 
   _It takes the files and puts its content into the object folder in the git repository. The name of that file is the hash of the file and some metadata._
 
