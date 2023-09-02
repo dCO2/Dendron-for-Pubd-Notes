@@ -1,8 +1,8 @@
 ---
 id: 96uafepnjg67x3urkpe7hbs
-title: Documenting Codeprop
+title: documenting codeprop
 desc: ''
-updated: 1688062947849
+updated: 1693659389317
 created: 1687165621232
 ---
 
@@ -24,6 +24,7 @@ Fortunately, a library that does this exists. [Codemirror](https://codemirror.ne
 #### [Codeprop is currently deployed to Netlify](https://codeprop.netlify.app/).
 
 ### Misc
+[[CodeMirror]] 
 #### Build a Text Editor
 [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) C
 [Designing a Simple Text Editor](http://www.fltk.org/doc-1.1/editor.html) C++

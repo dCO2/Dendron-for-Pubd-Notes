@@ -2,7 +2,7 @@
 id: cqgtfs5prw1scn7xs8h2ojw
 title: git internals
 desc: ''
-updated: 1693555329200
+updated: 1693582443840
 created: 1693555329200
 ---
 
@@ -63,4 +63,6 @@ created: 1693555329200
   "what it actually did is it it took the file looked at the contents of the file took those contents and put it as a copy into a file in the objects directory which represents a blob which stands for binary large object it's basically just a collection of data blobs don't have names it's just the raw data and then it took that raw data and a little bit of header information like how long the file is what type of object it is and it ran it through the SHA hashing algorithm and after that hashing the hashing algorithm always outputs a 40 character hex kind of output which is in this case e 6 9 te 2 9 dots out dot dot dot all that stuff over there oops if we do this make it a little bit bigger so that's this e 6 9 te whatever this whole line and so it's calculated that hash and then it created a directory in the objects directory called a 6 and then it took the rest of the hash and it used it as the file name and then it stored the raw data which in our case is the empty file so it's a it's a blob object of 0 bytes and that was hashed and that's where it came up with this a 6 thing so what would that what that tells us is that every time you run get add you're actually putting something in your objects directory so that's on your local machine things are being saved but"
 
   </details>
-- \#todo
+- ![[git FAQ#^anchor-git-faq-push-commit]]
+  - what's the technical reason?
+- 

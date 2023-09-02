@@ -1,6 +1,6 @@
 ---
 id: oz4j48ix9umq03bzs725zuq
-title: FAQ—Describe the current extent of your work on Tools For Thought
+title: Describe the current extent of your work on Tools For Thought
 desc: ''
 updated: 1693554617712
 created: 1693554617712

@@ -2,15 +2,17 @@
 id: bawr5lnieujuzlwl7fsvxxr
 title: Studies
 desc: ''
-updated: 1693552956281
+updated: 1693659714829
 created: 1693552956281
 ---
 
+[[web graphics]]  
 [[what are Tools for Thought]]  
 [[how browsers work]]  
-[[how git works internally]]  
+[[git internals]]  
 [[understanding databases]]  
 
+[[design patterns]]  
 [[distributed systems theory]]  
 [[computer networks]]  
 [[performance engineering of software systems]]  
