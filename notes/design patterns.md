@@ -2,14 +2,14 @@
 id: slbcis2cs1qxor0ip0m3zvx
 title: design patterns
 desc: ''
-updated: 1693658134357
+updated: 1693677629563
 created: 1693652650529
 ---
 
-#### _how important is studying this?_
+#### How important is studying this?
 
-#### _how should one study this?_
-2021-08-04:
+#### How should one study this?
+2021-08-04:  
 I was thinking on how i would go about learning the design patterns in the GoF book. I think the angle of entry i would go ahead with is thinking, without input from the book, about each of the intents that are listed alongside the patternname:
 - Intents
 	- **_How do you represent an operation to be performed on the elements of an object structure_**?
@@ -34,6 +34,8 @@ I was thinking on how i would go about learning the design patterns in the GoF b
 
 
 #### Links
+- https://realpython.com/inheritance-composition-python/
+- https://stackoverflow.com/tags/oop/info
 - The faster you unlearn OOP, the better for you and your software https://news.ycombinator.com/item?id=18526490
 - Why is OOP still so widely spread? https://news.ycombinator.com/item?id=24356978
 - Data-oriented design or why you might shoot yourself in the foot with OOP (2009) https://news.ycombinator.com/item?id=27658706
