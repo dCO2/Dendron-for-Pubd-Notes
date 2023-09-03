@@ -2,7 +2,7 @@
 id: slbcis2cs1qxor0ip0m3zvx
 title: design patterns
 desc: ''
-updated: 1693677629563
+updated: 1693774366158
 created: 1693652650529
 ---
 
@@ -24,13 +24,15 @@ I was thinking on how i would go about learning the design patterns in the GoF b
 		- **Case Study:** TCPConnection
 	- _**How do you define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and update automatically.**_
 		- **Case Study:** GUI toolkits
-	- _**How do you capture and externalize an object's internal state so that the object can this state later?**_
+	- _**How do you capture and externalize an object's internal state so that the object can be restored to this state later?**_
 		- **Case Study:** Graphical Editor
 	- _**How do you access the elements of an aggregate object sequentially without exposing its underlying representation?**_
 		- **Case Study:** Traversing a List
 	- _**How do you encapsulate a request as an object, (thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.)**_
 		- **Case Study:** user interface toolkits include objects like buttons and menus that carry out a request in response to user input
 	- _**How do you avoid coupling the sender of a request to its receiver (by giving more than one objects a chance to handle the request?)**_
+    - **Case Study:**
+
 
 
 #### Links
