@@ -2,11 +2,11 @@
 id: 3ejaxv4xm6o2psn0du528yw
 title: documenting netpin
 desc: ''
-updated: 1693823021817
+updated: 1693823687949
 created: 1686741481395
 ---
 
-I rushed through a quick app last week within ~10 days in order to learn about the libraries & tools I made use of, including; [[Next-js]], TailwindCSS, Prisma, and [[Ant Design]]. It is a basic notes app, [Vercel](https://netpin.vercel.app/). The app, however, doesn't work in production (i.e., deployment) as it did in development (remark: All API endpoints are currently unresponsive) (_**EDIT: The app works in production now**_)
+I rushed through a quick app last week within ~10 days in order to learn about the libraries & tools I made use of, including; [[Next-js]], TailwindCSS, Prisma, and [[Ant Design]]. It is a basic notes app, [currently deployed on Vercel](https://netpin.vercel.app/). The app, however, doesn't work in production (i.e., deployment) as it did in development (remark: All API endpoints are currently unresponsive) (_**EDIT: The app works in production now**_)
 
 _This note (and other linked notes) details & explains the choices I rushed through while building the app and also documents thoughts on alternative choices that might be preferable for cleaner & effective code._
 
