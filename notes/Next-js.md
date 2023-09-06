@@ -2,7 +2,7 @@
 id: g29oys788cs2ojkssxp5vib
 title: Next.js
 desc: ''
-updated: 1694000681888
+updated: 1694001306764
 created: 1686743152635
 ---
 
@@ -19,4 +19,9 @@ created: 1686743152635
     - Internals: Data Fetching
     - Internals: Optimizations
 
-    
+
+#### Misc.
+
+- `@media (prefers-color-scheme: dark)` - what is it?
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+
