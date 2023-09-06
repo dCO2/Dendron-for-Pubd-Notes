@@ -2,12 +2,16 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1693476696304
+updated: 1693992849504
 created: 1693471719185
 ---
 
 #### From LeetCode
 
+- [[Split Linked List in Parts]]
+- [[Unique Paths]]
+- [[Unique Paths II]]
+- [[Extra Characters in a String]]
 - [[Minimum Number of Taps to Open to Water a Garden]]
 - [[Minimum Operations to Make the Array Increasing]]
 - [[Minimum Replacements to Sort the Array]]
@@ -69,8 +73,6 @@ created: 1693471719185
 - Spiral Matrix II
 - [[Permutation Sequence]]
 - Rotate List
-- Unique Paths
-- Unique Paths II
 - Minimum Path Sum
 - Valid Number
 - Plus One
