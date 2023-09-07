@@ -2,7 +2,7 @@
 id: cqgtfs5prw1scn7xs8h2ojw
 title: git internals
 desc: ''
-updated: 1693582443840
+updated: 1694089923072
 created: 1693555329200
 ---
 
@@ -66,3 +66,8 @@ created: 1693555329200
 - ![[git FAQ#^anchor-git-faq-push-commit]]
   - what's the technical reason?
 - 
+
+  <!-- <details>
+  <summary>😎</summary>
+    
+  </details> -->
