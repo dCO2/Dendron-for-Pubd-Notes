@@ -2,7 +2,7 @@
 id: psff2ci061yr6mz92uxzjil
 title: UI components catalog
 desc: ''
-updated: 1693517462450
+updated: 1694366311554
 created: 1693482722793
 ---
 
@@ -18,5 +18,22 @@ created: 1693482722793
 - [[card]] ([[PNL|documenting plain-net-lib]], [[netpin|documenting netpin]])
 
 - [[modal]]
+
+- [[Radix-UI]]
+  - dialog
+  - accordion
+  - collapsible
+  - context menu
+  - dropdown menu
+  - hover card
+  - menubar
+  - navigation menu
+  - popover
+  - progress
+  - scrollarea
+  - slider
+  - tabs
+  - toast
+  - toolbar
 
 Misc.: [[Interfaces]]

@@ -2,10 +2,16 @@
 id: myi5w5hqehiuvd65iyisdu1
 title: Interfaces
 desc: ''
-updated: 1693498079328
+updated: 1694369787629
 created: 1688658911947
 ---
 
+### Physical UI
+- [[thumbstick]]
+- [[button]]
+### Digital UI Libraries
+[[Platforms]]
+#### [[Ant Design]]
 #### Trying out [Radix UI](https://www.radix-ui.com/)  
 - What exactly does it offer?
   - _'Radix Websites'_ do have that [[iOS look and feel]] (probably just due to the font? (`"Untitled Sans"`, `apple-system`, `BlinkMacSystemFont`, `Segoe UI`, etc.)). But is that what users get out-of-the-box once they import and begin using Radix?
@@ -31,4 +37,6 @@ created: 1688658911947
 
 
 Misc.
-_An awesome work: https://rauno.me/craft, https://interfaces.rauno.me/_
+- _An awesome work: https://rauno.me/craft, https://interfaces.rauno.me/_
+- https://pages.cpsc.ucalgary.ca/~saul/581/presentations/06-physical-user-interfaces/581-physical-user-interfaces.pdf
+- https://universaldesign.ie/technology-ict/archive-irish-national-it-accessibility-guidelines/smart-cards/smart-card-guidelines/physical-user-interface/
