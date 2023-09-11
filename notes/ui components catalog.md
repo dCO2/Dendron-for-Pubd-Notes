@@ -2,7 +2,7 @@
 id: psff2ci061yr6mz92uxzjil
 title: UI components catalog
 desc: ''
-updated: 1694366311554
+updated: 1694421400510
 created: 1693482722793
 ---
 
@@ -35,5 +35,27 @@ created: 1693482722793
   - tabs
   - toast
   - toolbar
+
+- Disclosure
+  - accordion
+  - tabs
+- Feedback
+  - alert
+  - toast
+  - progress
+  - skeleton
+  - spinner
+- Overlay
+  - alert dialog
+  - drawer
+  - menu
+  - modal
+  - popover
+  - tooltip
+- Media and icons
+- Data display
+- Navigation
+- Form
+
 
 Misc.: [[Interfaces]]

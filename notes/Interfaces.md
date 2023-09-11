@@ -2,7 +2,7 @@
 id: myi5w5hqehiuvd65iyisdu1
 title: Interfaces
 desc: ''
-updated: 1694369787629
+updated: 1694431252472
 created: 1688658911947
 ---
 
@@ -12,6 +12,8 @@ created: 1688658911947
 ### Digital UI Libraries
 [[Platforms]]
 #### [[Ant Design]]
+#### "The Decline of Usability" (2020) (hackernews)
+https://datagubbe.se/decusab/
 #### Trying out [Radix UI](https://www.radix-ui.com/)  
 - What exactly does it offer?
   - _'Radix Websites'_ do have that [[iOS look and feel]] (probably just due to the font? (`"Untitled Sans"`, `apple-system`, `BlinkMacSystemFont`, `Segoe UI`, etc.)). But is that what users get out-of-the-box once they import and begin using Radix?

@@ -2,7 +2,7 @@
 id: slbcis2cs1qxor0ip0m3zvx
 title: design patterns
 desc: ''
-updated: 1693774366158
+updated: 1694444880343
 created: 1693652650529
 ---
 
@@ -10,7 +10,7 @@ created: 1693652650529
 
 #### How should one study this?
 2021-08-04:  
-I was thinking on how i would go about learning the design patterns in the GoF book. I think the angle of entry i would go ahead with is thinking, without input from the book, about each of the intents that are listed alongside the patternname:
+I was thinking on how I would go about learning the design patterns in the GoF book. I think the angle of entry i would go ahead with is thinking, without input from the book, about each of the intents that are listed alongside the patternname:
 - Intents
 	- **_How do you represent an operation to be performed on the elements of an object structure_**?
 		- **Case Study:** Abstract Syntax Trees
@@ -33,7 +33,20 @@ I was thinking on how i would go about learning the design patterns in the GoF b
 	- _**How do you avoid coupling the sender of a request to its receiver (by giving more than one objects a chance to handle the request?)**_
     - **Case Study:**
 
-
+- I've not thought well-enough about how classes/OOP impact code performance, does it? I like how a solution to this problem ([[Invalid Transactions]]) was cleaned-up by making use of classes.  
+  - https://softwareengineering.stackexchange.com/questions/125753/does-object-orientation-really-affect-algorithm-performance
+  - https://softwareengineering.stackexchange.com/questions/272298/relation-between-object-orientation-and-algorithms?rq=1
+  - https://softwareengineering.stackexchange.com/questions/239045/what-is-the-relationship-between-data-structures-and-algorithms
+  - questions like these that are always stated using OOP constructs like classes ([[Design A Leaderboard]], [[LRU Cache]], etc.)
+  
+- Object-Oriented Design
+	- [[Template Method vs. Strategy]]
+	- [[Observer pattern]]
+	- [[Push vs. pull observer pattern]]
+	- [[Singletons and Flyweights]]
+	- [[Adapters]]
+	- [[Creational Patterns]]
+	- [[Libraries and design patterns]]
 
 #### Links
 - https://realpython.com/inheritance-composition-python/

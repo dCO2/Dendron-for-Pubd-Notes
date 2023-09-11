@@ -2,11 +2,23 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1693992849504
+updated: 1694445688640
 created: 1693471719185
 ---
 
 #### From LeetCode
+
+- [[Smallest Range I]]
+- [[Range Sum Query 2D - Mutable]], [[Range Sum Query 2D - Immutable]]
+- [[Number of Ships in a Rectangle]]
+- [[Minimize the Total Price of the Trips]]
+- [[Design A Leaderboard]]
+- [[Decode String]]
+- [[Word Break]], [[Word Break II]]
+- [[MRU Queue]], [[LRU Cache]], [[LFU Cache]], [[Design In-Memory File System]]. What is the difference between LRU and LFU? https://stackoverflow.com/questions/17759560/what-is-the-difference-between-lru-and-lfu
+- [[Invalid Transactions]]
+- [[Maximize Score After N Operations]]
+
 
 - [[Split Linked List in Parts]]
 - [[Unique Paths]]
@@ -142,14 +154,11 @@ created: 1693471719185
 - Single Number
 - Single Number II
 - Copy List with Random Pointer
-- Word Break
-- Word Break II
 - Linked List Cycle
 - Linked List Cycle II
 - Reorder List
 - Binary Tree Preorder Traversal
 - Binary Tree Postorder Traversal
-- LRU Cache
 - [[Insertion Sort List]]
 - Sort List
 - Max Points on a Line
@@ -329,7 +338,7 @@ created: 1693471719185
 	- [[The gasup problem]]
 	- [[Compute the maximum water trapped by a pair of vertical lines]]
 	- [[Compute the largest rectangle under the skyline]]
-16. Graphs [[algorithm problem related to graphs]]
+16. Graphs [[adp related to graphs]]
 
 - Parallel Computing
 	- [[Implement caching for a multithreaded dictionary]]
@@ -341,26 +350,6 @@ created: 1693471719185
 	- [[The readers-writers problem with write preference]]
 	- [[Implement a Timer class]]
 	- [[Test the Collatz conjecture in parallel]]
-- Design Problems
-	- Design a spell checker
-	- Design a solution to the stemming problem
-	- Plagiarism detector
-	- Pair users by attributes
-	- Design a system for detecting copyright infringement
-	- Design TeX
-	- Design a search engine
-	- Implement PageRank
-	- Design TeraSort and PetaSort
-	- Implement distributed throttling
-	- Design a scalable priority system
-	- Create photomosaics
-	- Implement Mileage Run
-	- Implement Connexus
-	- Design an online advertising system
-	- Design a recommendation system
-	- Design an optimized way of distributing large files
-	- Design the World Wide Web
-	- Estimate the hardware cost of a photo sharing app
 - Language Questions
 	- [[Garbage Collection]]
 	- [[Closure]]
@@ -373,14 +362,6 @@ created: 1693471719185
 	- [[Exception Handling]]
 	- [[Scoping]]
 	- [[Function arguments]]
-- Object-Oriented Design
-	- [[Template Method vs. Strategy]]
-	- [[Observer pattern]]
-	- [[Push vs. pull observer pattern]]
-	- [[Singletons and Flyweights]]
-	- [[Adapters]]
-	- [[Creational Patterns]]
-	- [[Libraries and design patterns]]
 - Common Tools
 	- [[Merging in a version control system]]
 	- [[Hooks]]
