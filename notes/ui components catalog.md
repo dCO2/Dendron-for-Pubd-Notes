@@ -2,7 +2,7 @@
 id: psff2ci061yr6mz92uxzjil
 title: UI components catalog
 desc: ''
-updated: 1694421400510
+updated: 1694553885020
 created: 1693482722793
 ---
 
@@ -35,6 +35,9 @@ created: 1693482722793
   - tabs
   - toast
   - toolbar
+
+- how is a context menu different from a dropdown menu?
+  - just right-click vs left-click?
 
 - Disclosure
   - accordion
