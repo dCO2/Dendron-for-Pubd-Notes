@@ -2,7 +2,7 @@
 id: myi5w5hqehiuvd65iyisdu1
 title: Interfaces
 desc: ''
-updated: 1694431252472
+updated: 1694639296141
 created: 1688658911947
 ---
 
@@ -35,8 +35,6 @@ https://datagubbe.se/decusab/
         - onclick:
         - ![radix-popover-demo-withoutcss-2](/assets/images/radix-popover-demo-withoutcss-2.png)
   - Radix is faster than [[Ant Design]]?
-
-
 
 Misc.
 - _An awesome work: https://rauno.me/craft, https://interfaces.rauno.me/_
