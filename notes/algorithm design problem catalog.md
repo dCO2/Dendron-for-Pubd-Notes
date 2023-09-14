@@ -2,27 +2,26 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1694445688640
+updated: 1694692413642
 created: 1693471719185
 ---
 
 #### From LeetCode
 
-- [[Smallest Range I]]
+- [[Smallest Range 1]]
 - [[Range Sum Query 2D - Mutable]], [[Range Sum Query 2D - Immutable]]
 - [[Number of Ships in a Rectangle]]
 - [[Minimize the Total Price of the Trips]]
 - [[Design A Leaderboard]]
 - [[Decode String]]
-- [[Word Break]], [[Word Break II]]
+- [[Word Break 1]], [[Word Break 2]]
 - [[MRU Queue]], [[LRU Cache]], [[LFU Cache]], [[Design In-Memory File System]]. What is the difference between LRU and LFU? https://stackoverflow.com/questions/17759560/what-is-the-difference-between-lru-and-lfu
 - [[Invalid Transactions]]
 - [[Maximize Score After N Operations]]
-
-
+- break
 - [[Split Linked List in Parts]]
-- [[Unique Paths]]
-- [[Unique Paths II]]
+- [[Unique Paths 1]]
+- [[Unique Paths 2]]
 - [[Extra Characters in a String]]
 - [[Minimum Number of Taps to Open to Water a Garden]]
 - [[Minimum Operations to Make the Array Increasing]]
