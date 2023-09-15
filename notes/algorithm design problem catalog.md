@@ -2,12 +2,11 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1694692413642
+updated: 1694788063764
 created: 1693471719185
 ---
 
 #### From LeetCode
-
 - [[Smallest Range 1]]
 - [[Range Sum Query 2D - Mutable]], [[Range Sum Query 2D - Immutable]]
 - [[Number of Ships in a Rectangle]]
@@ -36,7 +35,7 @@ created: 1693471719185
 - [[Repeated Substring Pattern]]
 - [[Non-overlapping Intervals]]
 - [[Maximum Number of Events That Can Be Attended]]
-
+- break
 - Add Two Numbers
 - Longest Substring Without Repeating Characters
 - Median of Two Sorted Arrays
