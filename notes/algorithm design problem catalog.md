@@ -2,7 +2,7 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1694788063764
+updated: 1694887082861
 created: 1693471719185
 ---
 
@@ -15,7 +15,7 @@ created: 1693471719185
 - [[Decode String]]
 - [[Word Break 1]], [[Word Break 2]]
 - [[MRU Queue]], [[LRU Cache]], [[LFU Cache]], [[Design In-Memory File System]]. What is the difference between LRU and LFU? https://stackoverflow.com/questions/17759560/what-is-the-difference-between-lru-and-lfu
-- [[Invalid Transactions]]
+- [[Invalid Transactions]] (look into how OOP might complicate implementation? a solution to I.T: https://www.youtube.com/watch?v=N0Hgr7vTXOw)
 - [[Maximize Score After N Operations]]
 - break
 - [[Split Linked List in Parts]]
@@ -36,13 +36,15 @@ created: 1693471719185
 - [[Non-overlapping Intervals]]
 - [[Maximum Number of Events That Can Be Attended]]
 - break
+- interesting how the [[Number of Islands]] problem could "include a feature" to become a different slightly more difficult problem: [[Maximal Square]]
+- [[Container Filled With Most Water]]
+- [[House Robber 1]], House Robber 2
 - Add Two Numbers
 - Longest Substring Without Repeating Characters
 - Median of Two Sorted Arrays
 - Longest Palindromic Substring
 - Palindrome Number
 - Regular Expression Matching
-- [[Container Filled With Most Water]]
 - Longest Common Prefix
 - 3Sum
 - 3Sum Closest
@@ -63,25 +65,44 @@ created: 1693471719185
 - Valid Sudoku
 - Sudoku Solver
 - Count and Say
-- [[Combination Sum II]]
+- [[Subsets]]
+- [[Combinations]]
+- [[Combination Sum 2]]
+- [[Combination Sum 3]]
 - First Missing Positive
 - Trapping Rain Water
 - Multiply Strings
-- Jump Game II
+- [[Jump Game 1]] [[Jump Game 2]]
 - [[Permutations]]
-- [[Permutations II]]
-- Rotate Image
-- Group Anagrams
-- Pow(x, n)
-- N-Queens
-- N-Queens II
+- [[Permutations 2]]
+- [[Permutation Sequence]]
+- [[N-Queens]] [[N-Queens 2]]
 - [[Maximum Subarray]]
-- Spiral Matrix
-- [[Jump Game]]
+- [[Spiral Matrix]] [[Spiral Matrix 2]]
+- [[Rotate Image]]
+- [[Group Anagrams]]
+- [[Pow(x, n)]]
 - [[Merge Intervals]]
 - [[Insert Interval]]
-- Spiral Matrix II
-- [[Permutation Sequence]]
+- [[Sort Colors]]
+- [[Insertion Sort List]]
+- [[Two Sum 2]] - Input array is sorted
+- [[Bitwise AND of Numbers Range]]
+- [[Happy Number]]
+- [[Minimum Size Subarray Sum]]
+- [[Word Search]]
+- [[Remove Duplicates from Sorted Array 2]]
+- [[Search in Rotated Sorted Array 2]]
+- [[Remove Duplicates from Sorted List 2]]
+- [[Remove Duplicates from Sorted List]]
+- [[Largest Rectangle in Histogram]]
+- [[Maximal Rectangle]]
+- [[Partition List]]
+- [[Subsets 2]]
+- [[Reverse Linked List 2]]
+- [[Restore IP Addresses]]
+- [[Binary Tree Inorder Traversal]]
+- [[Unique Binary Search Trees 2]]
 - Rotate List
 - Minimum Path Sum
 - Valid Number
@@ -93,23 +114,7 @@ created: 1693471719185
 - Edit Distance
 - Set Matrix Zeroes
 - Search a 2D Matrix (Search a sorted 2D Matrix for a target)
-- [[Sort Colors]]
 - Minimum Window Substring
-- [[Combinations]]
-- [[Subsets]]
-- [[Word Search]]
-- [[Remove Duplicates from Sorted Array II]]
-- [[Search in Rotated Sorted Array II]]
-- [[Remove Duplicates from Sorted List II]]
-- [[Remove Duplicates from Sorted List]]
-- [[Largest Rectangle in Histogram]]
-- [[Maximal Rectangle]]
-- [[Partition List]]
-- [[Subsets II]]
-- [[Reverse Linked List II]]
-- [[Restore IP Addresses]]
-- [[Binary Tree Inorder Traversal]]
-- [[Unique Binary Search Trees II]]
 - Unique Binary Search Trees
 - Interleaving String
 - Validate Binary Search Tree
@@ -121,93 +126,81 @@ created: 1693471719185
 - Maximum Depth of Binary Tree
 - Construct Binary Tree from Preorder and Inorder Traversal
 - Construct Binary Tree from Inorder and Postorder Traversal
-- Binary Tree Level Order Traversal II
+- Binary Tree Level Order Traversal 2
 - Convert Sorted Array to Binary Search Tree
 - Convert Sorted List to Binary Search Tree
 - Balanced Binary Tree
 - Minimum Depth of Binary Tree
-- Path Sum
-- Path Sum II
+- Path Sum 1
+- Path Sum 2
 - Flatten Binary Tree to Linked List
 - Distinct Subsequences
-- Populating Next Right Pointers in Each Node
-- Populating Next Right Pointers in Each Node II
-- Pascal's Triangle
-- Pascal's Triangle II
+- Populating Next Right Pointers in Each Node 1
+- Populating Next Right Pointers in Each Node 2
+- Pascal's Triangle 1
+- Pascal's Triangle 2
 - Triangle
-- Best Time to Buy and Sell Stock
-- Best Time to Buy and Sell Stock II
-- Best Time to Buy and Sell Stock III
+- Best Time to Buy and Sell Stock 1
+- Best Time to Buy and Sell Stock 2
+- Best Time to Buy and Sell Stock 3
 - Binary Tree Maximum Path Sum
-- Word Ladder II
-- Word Ladder
+- Word Ladder 2
+- Word Ladder 1
 - Longest Consecutive Sequence
 - Sum Root to Leaf Numbers
 - Surrounded Regions
-- Palindrome Partitioning
-- Palindrome Partitioning II
+- Palindrome Partitioning 1
+- Palindrome Partitioning 2
 - [[Clone a graph]]
 - Gas Station
 - Candy
-- Single Number
-- Single Number II
+- Single Number 1
+- Single Number 2
 - Copy List with Random Pointer
-- Linked List Cycle
-- Linked List Cycle II
+- Linked List Cycle 1
+- Linked List Cycle 2
 - Reorder List
 - Binary Tree Preorder Traversal
 - Binary Tree Postorder Traversal
-- [[Insertion Sort List]]
 - Sort List
 - Max Points on a Line
 - Evaluate Reverse Polish Notation
 - Maximum Product Subarray
-- Find Minimum in Rotated Sorted Array
-- Find Minimum in Rotated Sorted Array II
+- Find Minimum in Rotated Sorted Array 1
+- Find Minimum in Rotated Sorted Array 2
 - Min Stack
 - Intersection of Two Linked Lists
 - Maximum Gap
-- [[Two Sum II]] - Input array is sorted
 - Majority Element
 - Dungeon Game
 - Largest Number
 - Repeated DNA Sequences         
-- Best Time to Buy and Sell Stock IV
+- Best Time to Buy and Sell Stock 4
 - Rotate Array
 - Reverse Bits            
 - Number of 1 Bits            
-- [[House Robber]]
 - Binary Tree Right Side View
-- [[Number of Islands]]
-- [[Bitwise AND of Numbers Range]]
-- [[Happy Number]]
 - Remove Linked List Elements
 - Count Primes
 - Isomorphic Strings
 - Reverse Linked List            
-- Course Schedule
+- Course Schedule 1, Course Schedule 2
 - Implement Trie (Prefix Tree)            
-- [[Minimum Size Subarray Sum]]
-- Course Schedule II
 - Design Add and Search Words Data Structure
-- Word Search II
-- House Robber II
+- Word Search 2
 - Shortest Palindrome
 - Kth Largest Element in an Array
-- [[Combination Sum III]]
 - Contains Duplicate
 - The Skyline Problem
-- [[Maximal Square]]
 - Count Complete Tree Nodes
 - Rectangle Area
 - Basic Calculator
 - Implement Stack using Queues
 - Invert Binary Tree
-- Basic Calculator II
+- Basic Calculator 2
 - Summary Ranges
-- Majority Element II
+- Majority Element 2
 - Kth Smallest Element in a BST
-
 
 #### From EPI
 
