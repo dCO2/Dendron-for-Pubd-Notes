@@ -2,7 +2,7 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1695043232038
+updated: 1695044468279
 created: 1693471719185
 ---
 
@@ -16,7 +16,7 @@ created: 1693471719185
 - [[MRU Queue]], [[LRU Cache]], [[LFU Cache]], [[Design In-Memory File System]]. [What is the difference between LRU and LFU?](https://stackoverflow.com/questions/17759560/what-is-the-difference-between-lru-and-lfu)
 - [[Invalid Transactions]] (look into how OOP might complicate implementation? a solution to I.T: https://www.youtube.com/watch?v=N0Hgr7vTXOw)
 - [[Course Schedule 1]] asks if it is possible to complete a given 'curriculum' of courses when some courses are dependent on other courses; [[Course Schedule 2]] determines some particular order in which the courses should be taken; _([dependency graph](https://en.wikipedia.org/wiki/Dependency_graph); [topological sorting](https://en.wikipedia.org/wiki/Topological_sorting); [optimal job scheduling](https://en.wikipedia.org/wiki/Optimal_job_scheduling); [unix tsort](https://en.wikipedia.org/wiki/Tsort); [railway timetables](https://youtu.be/NFLb1IPlY_k).)_
-- [[Number of Islands]] and [[Max Area of Island]] computes the number and size (respectively) of **separate** segments within a matrix of binary-state elements. when the shape of the segment is a constraint, the problem is more difficult: [[Maximal Square]], [[Maximal Rectangle]]. Even more difficult is efficiently (O(k log mn)) obtaining the intermediate number of separate segments when the "matrix of binary-state elements" is populated one "land-state" at a time, where k in O(k log mn) is the number of times: [Number of Islands 2](https://aaronice.gitbook.io/lintcode/union_find/number_of_islands_ii).
+- [[Number of Islands]] and [[Max Area of Island]] computes the number and size (respectively) of **separate** segments within a matrix of binary-state elements. When the shape of the segment is a constraint, the problem is more difficult: [[Maximal Square]], [[Maximal Rectangle]]. Even more difficult is efficiently (O(k log mn)) obtaining the intermediate number of separate segments when the "matrix of binary-state elements" is populated one "land-state" at a time, where k in O(k log mn) is the number of times: [Number of Islands 2](https://aaronice.gitbook.io/lintcode/union_find/number_of_islands_ii).
 - [[Split Linked List in Parts]]
 - [[Non-overlapping Intervals]]
 - [[Maximum Number of Events That Can Be Attended]]
