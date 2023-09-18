@@ -2,43 +2,72 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1694887082861
+updated: 1695043232038
 created: 1693471719185
 ---
 
 #### From LeetCode
-- [[Smallest Range 1]]
-- [[Range Sum Query 2D - Mutable]], [[Range Sum Query 2D - Immutable]]
+- [[Range Sum Query 2D - Mutable]], [[Range Sum Query 2D - Immutable]] 
 - [[Number of Ships in a Rectangle]]
 - [[Minimize the Total Price of the Trips]]
 - [[Design A Leaderboard]]
 - [[Decode String]]
 - [[Word Break 1]], [[Word Break 2]]
-- [[MRU Queue]], [[LRU Cache]], [[LFU Cache]], [[Design In-Memory File System]]. What is the difference between LRU and LFU? https://stackoverflow.com/questions/17759560/what-is-the-difference-between-lru-and-lfu
+- [[MRU Queue]], [[LRU Cache]], [[LFU Cache]], [[Design In-Memory File System]]. [What is the difference between LRU and LFU?](https://stackoverflow.com/questions/17759560/what-is-the-difference-between-lru-and-lfu)
 - [[Invalid Transactions]] (look into how OOP might complicate implementation? a solution to I.T: https://www.youtube.com/watch?v=N0Hgr7vTXOw)
-- [[Maximize Score After N Operations]]
-- break
+- [[Course Schedule 1]] asks if it is possible to complete a given 'curriculum' of courses when some courses are dependent on other courses; [[Course Schedule 2]] determines some particular order in which the courses should be taken; _([dependency graph](https://en.wikipedia.org/wiki/Dependency_graph); [topological sorting](https://en.wikipedia.org/wiki/Topological_sorting); [optimal job scheduling](https://en.wikipedia.org/wiki/Optimal_job_scheduling); [unix tsort](https://en.wikipedia.org/wiki/Tsort); [railway timetables](https://youtu.be/NFLb1IPlY_k).)_
+- [[Number of Islands]] and [[Max Area of Island]] computes the number and size (respectively) of **separate** segments within a matrix of binary-state elements. when the shape of the segment is a constraint, the problem is more difficult: [[Maximal Square]], [[Maximal Rectangle]]. Even more difficult is efficiently (O(k log mn)) obtaining the intermediate number of separate segments when the "matrix of binary-state elements" is populated one "land-state" at a time, where k in O(k log mn) is the number of times: [Number of Islands 2](https://aaronice.gitbook.io/lintcode/union_find/number_of_islands_ii).
 - [[Split Linked List in Parts]]
-- [[Unique Paths 1]]
-- [[Unique Paths 2]]
-- [[Extra Characters in a String]]
+- [[Non-overlapping Intervals]]
+- [[Maximum Number of Events That Can Be Attended]]
+- [[Merge Intervals]]
+- [[Insert Interval]]
 - [[Minimum Number of Taps to Open to Water a Garden]]
 - [[Minimum Operations to Make the Array Increasing]]
 - [[Minimum Replacements to Sort the Array]]
-- [[Minimum Penalty For a Shop]]
-- [[Frog Jump]]
 - [[Maximum Length of Pair Chain]]
+- [[Maximize Score After N Operations]]
+- [[Minimum Penalty For a Shop]]
+- [[Unique Paths 1]], [[Unique Paths 2]]
+- [[Extra Characters in a String]]
+- [[Frog Jump]], [[Jump Game 1]], [[Jump Game 2]]
 - [[Interleaving String]]
 - [[Text Justification]]
 - [[Reorganize String]]
 - [[Excel Sheet Column Title]], [[Excel Sheet Column Number]]
 - [[Repeated Substring Pattern]]
-- [[Non-overlapping Intervals]]
-- [[Maximum Number of Events That Can Be Attended]]
-- break
-- interesting how the [[Number of Islands]] problem could "include a feature" to become a different slightly more difficult problem: [[Maximal Square]]
-- [[Container Filled With Most Water]]
+- [[Gas Station]]
+- [[Candy]]
+- [[Container Filled With Most Water]], Trapping Rain Water
 - [[House Robber 1]], House Robber 2
+- [[Subsets]], [[Subsets 2]]
+- [[Combinations]], [[Combination Sum 2]], [[Combination Sum 3]]
+- [[Permutations 1]], [[Permutations 2]], [[Permutation Sequence]]
+- [[N-Queens]], [[N-Queens 2]]
+- [[Maximum Subarray]]
+- [[Spiral Matrix]] [[Spiral Matrix 2]]
+- [[Rotate Image]]
+- [[Group Anagrams]]
+- [[Pow(x, n)]]
+- [[Sort Colors]]
+- [[Insertion Sort List]]
+- [[Two Sum 2]] - Input array is sorted
+- [[Bitwise AND of Numbers Range]]
+- [[Happy Number]]
+- [[Minimum Size Subarray Sum]]
+- [[Word Search]]
+- [[Remove Duplicates from Sorted Array 2]]
+- [[Search in Rotated Sorted Array 2]]
+- [[Remove Duplicates from Sorted List]], [[Remove Duplicates from Sorted List 2]]
+- [[Largest Rectangle in Histogram]]
+- [[Partition List]]
+- [[Reverse Linked List 2]]
+- [[Restore IP Addresses]]
+- [[Binary Tree Inorder Traversal]]
+- [[Unique Binary Search Trees 2]]
+- [[Clone a graph]]
+- First Missing Positive
+- Multiply Strings
 - Add Two Numbers
 - Longest Substring Without Repeating Characters
 - Median of Two Sorted Arrays
@@ -65,44 +94,6 @@ created: 1693471719185
 - Valid Sudoku
 - Sudoku Solver
 - Count and Say
-- [[Subsets]]
-- [[Combinations]]
-- [[Combination Sum 2]]
-- [[Combination Sum 3]]
-- First Missing Positive
-- Trapping Rain Water
-- Multiply Strings
-- [[Jump Game 1]] [[Jump Game 2]]
-- [[Permutations]]
-- [[Permutations 2]]
-- [[Permutation Sequence]]
-- [[N-Queens]] [[N-Queens 2]]
-- [[Maximum Subarray]]
-- [[Spiral Matrix]] [[Spiral Matrix 2]]
-- [[Rotate Image]]
-- [[Group Anagrams]]
-- [[Pow(x, n)]]
-- [[Merge Intervals]]
-- [[Insert Interval]]
-- [[Sort Colors]]
-- [[Insertion Sort List]]
-- [[Two Sum 2]] - Input array is sorted
-- [[Bitwise AND of Numbers Range]]
-- [[Happy Number]]
-- [[Minimum Size Subarray Sum]]
-- [[Word Search]]
-- [[Remove Duplicates from Sorted Array 2]]
-- [[Search in Rotated Sorted Array 2]]
-- [[Remove Duplicates from Sorted List 2]]
-- [[Remove Duplicates from Sorted List]]
-- [[Largest Rectangle in Histogram]]
-- [[Maximal Rectangle]]
-- [[Partition List]]
-- [[Subsets 2]]
-- [[Reverse Linked List 2]]
-- [[Restore IP Addresses]]
-- [[Binary Tree Inorder Traversal]]
-- [[Unique Binary Search Trees 2]]
 - Rotate List
 - Minimum Path Sum
 - Valid Number
@@ -131,34 +122,22 @@ created: 1693471719185
 - Convert Sorted List to Binary Search Tree
 - Balanced Binary Tree
 - Minimum Depth of Binary Tree
-- Path Sum 1
-- Path Sum 2
+- Path Sum 1, Path Sum 2
 - Flatten Binary Tree to Linked List
 - Distinct Subsequences
-- Populating Next Right Pointers in Each Node 1
-- Populating Next Right Pointers in Each Node 2
-- Pascal's Triangle 1
-- Pascal's Triangle 2
+- Populating Next Right Pointers in Each Node 1, Populating Next Right Pointers in Each Node 2
+- Pascal's Triangle 1, Pascal's Triangle 2
 - Triangle
-- Best Time to Buy and Sell Stock 1
-- Best Time to Buy and Sell Stock 2
-- Best Time to Buy and Sell Stock 3
+- Best Time to Buy and Sell Stock 1, Best Time to Buy and Sell Stock 2, Best Time to Buy and Sell Stock 3
 - Binary Tree Maximum Path Sum
-- Word Ladder 2
-- Word Ladder 1
+- Word Ladder 1, Word Ladder 2
 - Longest Consecutive Sequence
 - Sum Root to Leaf Numbers
 - Surrounded Regions
-- Palindrome Partitioning 1
-- Palindrome Partitioning 2
-- [[Clone a graph]]
-- Gas Station
-- Candy
-- Single Number 1
-- Single Number 2
+- Palindrome Partitioning 1, Palindrome Partitioning 2
+- Single Number 1, Single Number 2
 - Copy List with Random Pointer
-- Linked List Cycle 1
-- Linked List Cycle 2
+- Linked List Cycle 1, Linked List Cycle 2
 - Reorder List
 - Binary Tree Preorder Traversal
 - Binary Tree Postorder Traversal
@@ -166,8 +145,7 @@ created: 1693471719185
 - Max Points on a Line
 - Evaluate Reverse Polish Notation
 - Maximum Product Subarray
-- Find Minimum in Rotated Sorted Array 1
-- Find Minimum in Rotated Sorted Array 2
+- Find Minimum in Rotated Sorted Array 1, Find Minimum in Rotated Sorted Array 2
 - Min Stack
 - Intersection of Two Linked Lists
 - Maximum Gap
@@ -184,7 +162,6 @@ created: 1693471719185
 - Count Primes
 - Isomorphic Strings
 - Reverse Linked List            
-- Course Schedule 1, Course Schedule 2
 - Implement Trie (Prefix Tree)            
 - Design Add and Search Words Data Structure
 - Word Search 2
