@@ -2,7 +2,7 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1695120874542
+updated: 1695123930640
 created: 1693471719185
 ---
 
@@ -74,8 +74,6 @@ created: 1693471719185
 - Palindrome Number
 - Regular Expression Matching
 - Longest Common Prefix
-- 3Sum
-- 3Sum Closest
 - Letter Combinations of a Phone Number
 - Remove Nth Node From End of List
 - Valid Parentheses
