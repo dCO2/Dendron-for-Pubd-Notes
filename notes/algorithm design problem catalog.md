@@ -2,7 +2,7 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1695123930640
+updated: 1695224699031
 created: 1693471719185
 ---
 
@@ -62,9 +62,30 @@ created: 1693471719185
 - [[Partition List]]
 - [[Reverse Linked List 2]]
 - [[Restore IP Addresses]]
-- [[Binary Tree Inorder Traversal]]
 - [[Unique Binary Search Trees 2]]
 - [[Clone a graph]]
+- [[Binary Tree Inorder Traversal]]
+- Invert Binary Tree
+- Unique Binary Search Trees
+- Validate Binary Search Tree
+- Recover Binary Search Tree
+- Same Tree
+- Symmetric Tree
+- Binary Tree Level Order Traversal
+- Binary Tree Zigzag Level Order Traversal
+- Maximum Depth of Binary Tree
+- Construct Binary Tree from Preorder and Inorder Traversal
+- Construct Binary Tree from Inorder and Postorder Traversal
+- Binary Tree Level Order Traversal 2
+- Convert Sorted Array to Binary Search Tree
+- Convert Sorted List to Binary Search Tree
+- Balanced Binary Tree
+- Minimum Depth of Binary Tree
+- Flatten Binary Tree to Linked List
+- Binary Tree Maximum Path Sum
+- Binary Tree Preorder Traversal
+- Binary Tree Postorder Traversal
+- Binary Tree Right Side View
 - First Missing Positive
 - Multiply Strings
 - Add Two Numbers
@@ -103,30 +124,13 @@ created: 1693471719185
 - Set Matrix Zeroes
 - Search a 2D Matrix (Search a sorted 2D Matrix for a target)
 - Minimum Window Substring
-- Unique Binary Search Trees
 - Interleaving String
-- Validate Binary Search Tree
-- Recover Binary Search Tree
-- Same Tree
-- Symmetric Tree
-- Binary Tree Level Order Traversal
-- Binary Tree Zigzag Level Order Traversal
-- Maximum Depth of Binary Tree
-- Construct Binary Tree from Preorder and Inorder Traversal
-- Construct Binary Tree from Inorder and Postorder Traversal
-- Binary Tree Level Order Traversal 2
-- Convert Sorted Array to Binary Search Tree
-- Convert Sorted List to Binary Search Tree
-- Balanced Binary Tree
-- Minimum Depth of Binary Tree
 - Path Sum 1, Path Sum 2
-- Flatten Binary Tree to Linked List
 - Distinct Subsequences
 - Populating Next Right Pointers in Each Node 1, Populating Next Right Pointers in Each Node 2
 - Pascal's Triangle 1, Pascal's Triangle 2
 - Triangle
 - Best Time to Buy and Sell Stock 1, Best Time to Buy and Sell Stock 2, Best Time to Buy and Sell Stock 3
-- Binary Tree Maximum Path Sum
 - Word Ladder 1, Word Ladder 2
 - Longest Consecutive Sequence
 - Sum Root to Leaf Numbers
@@ -136,8 +140,6 @@ created: 1693471719185
 - Copy List with Random Pointer
 - Linked List Cycle 1, Linked List Cycle 2
 - Reorder List
-- Binary Tree Preorder Traversal
-- Binary Tree Postorder Traversal
 - Sort List
 - Max Points on a Line
 - Evaluate Reverse Polish Notation
@@ -153,7 +155,6 @@ created: 1693471719185
 - Rotate Array
 - Reverse Bits            
 - Number of 1 Bits            
-- Binary Tree Right Side View
 - Remove Linked List Elements
 - Count Primes
 - Isomorphic Strings
@@ -169,7 +170,6 @@ created: 1693471719185
 - Rectangle Area
 - Basic Calculator
 - Implement Stack using Queues
-- Invert Binary Tree
 - Basic Calculator 2
 - Summary Ranges
 - Majority Element 2

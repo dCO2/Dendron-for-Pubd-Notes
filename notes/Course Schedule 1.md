@@ -2,13 +2,13 @@
 id: se7z11lj9u73lux14dtjhv9
 title: course schedule 1
 desc: ''
-updated: 1695044934480
+updated: 1695114723568
 created: 1695037431519
 ---
 
 https://leetcode.com/problems/course-schedule/
 
-- What visual tool can I use to easily SEE the relationship/pattern between the _dependency graph_ AND any one correct schedule or all the possible correct schedules?
+- What 'visual tool'/illustration can I use to easily SEE the relationship/pattern between the _dependency graph_ AND any one correct schedule or all the possible correct schedules?
   - Something better than this:
     - ![courseschedule1-img-1](/assets/images/courseschedule1-img-1.png)
       - this is just one instance from all the possible succession of elements that can be made.
