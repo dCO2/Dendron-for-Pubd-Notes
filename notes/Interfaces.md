@@ -2,7 +2,7 @@
 id: myi5w5hqehiuvd65iyisdu1
 title: Interfaces
 desc: ''
-updated: 1694639296141
+updated: 1695630832456
 created: 1688658911947
 ---
 
@@ -22,7 +22,7 @@ https://datagubbe.se/decusab/
   - Following through with _Implementing a Popover_ demo on the [Getting Started page](https://www.radix-ui.com/primitives/docs/overview/getting-started),
     - This is what a user gets on importing & using the Popover primitive:
       - ![radix-popover-demo-result-1](/assets/images/radix-popover-demo-result-1.png)
-        - onclick:/assets/images/.png
+        - onclick:
         - ![radix-popover-demo-result-2](/assets/images/radix-popover-demo-result-2.png)
     - The JS code:
       - ![radix-popover-demo-jscode](/assets/images/radix-popover-demo-jscode.png)

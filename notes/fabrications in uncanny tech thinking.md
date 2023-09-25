@@ -18,4 +18,4 @@ _`for now;`_ `'tech' as in procedural digital-world; not as in oil-drilling or n
 - A website's not a singleton Blackboard that everyone has read & write access to. But then how do you implement such a blackboard?
   - Figma
   - [[WebSockets]]
-- [[font catalog]]
+- [[type catalog]]

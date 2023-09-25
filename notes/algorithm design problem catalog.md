@@ -2,11 +2,11 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1695501370710
+updated: 1695630871539
 created: 1693471719185
 ---
 
-note: the problems on this page are majorly (/ intend to be) grouped by the nature of their problem statement and not their solution's mode of approach.
+note: the problems on this page are majorly (/ intend to be) grouped by the nature of their problem statement and not their solution's mode of approach. _related: [[algorithmic operations catalog]]_
 
 #### From LeetCode
 - [[Range Sum Query 2D - Mutable]], [[Range Sum Query 2D - Immutable]] 
