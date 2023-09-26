@@ -2,10 +2,15 @@
 id: cfx3cus8jl81qnm026xpnv3
 title: type catalog
 desc: ''
-updated: 1695635885062
+updated: 1695744748265
 created: 1693410166655
 ---
 
+- _Computer Modern Sans_, _sans-serif_ https://www.fontsquirrel.com/fonts/computer-modern https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css
+  - ![computer-modern-sans-sample](/assets/images/computer-modern-sans-sample.png)
+  - ![computer-modern-sans-sample-2](computer-modern-sans-sample-2.png)
+- _Inter_ by Rasmus Andersson https://fonts.google.com/specimen/Inter
+  - ![inter-font-sample](/assets/images/inter-font-sample.png)
 - Microsoft Whiteboard
   - version x.x: _Lorem Ipsum_
 - What was Windows 10 default font?

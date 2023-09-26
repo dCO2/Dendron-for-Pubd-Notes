@@ -2,7 +2,7 @@
 id: i7ta88h1ch11xw328ehnbmj
 title: color catalog
 desc: ''
-updated: 1695719029989
+updated: 1695744019074
 created: 1693482704378
 ---
 
@@ -30,4 +30,8 @@ _`Firefox's Eyedropper better than any from Chrome?`_
     - ![color-onion-purple](/assets/images/color-onion-purple.png) https://colors.muz.li/color/2d1137
   - `B2BEB5` (ash-grey)
     - ![color-ash-grey](/assets/images/color-ash-grey.png) https://colors.muz.li/color/ash-grey
+  - `DCDCDC` (website's background)
+    - ![color-dcdcdc](/assets/images/color-dcdcdc.png)
+  - `#00ffef-40` (website's accent color)
+    - ![color-00ffef](/assets/images/color-00ffef.png)
 

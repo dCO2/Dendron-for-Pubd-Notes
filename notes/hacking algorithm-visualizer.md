@@ -2,13 +2,13 @@
 id: hxldqh4r60sgbia521qrygx
 title: hacking algorithm-visualizer
 desc: ''
-updated: 1695741024493
+updated: 1695744827049
 created: 1695723344835
 ---
 https://algorithm-visualizer.org/  
 
-- ![algorithm-visualizer-1](/assets/images/algorithm-visualizer-1.png) ![Alt text](/assets/images/algorithm-visualizer-2.png)
-
+- ![algorithm-visualizer-1](/assets/images/algorithm-visualizer-1.png)
+- ![Alt text](/assets/images/algorithm-visualizer-2.png)
 - [[the directory for the algo-viz looks like this]]
 - App's layout:
   - `<ResizableContainer>`
@@ -17,7 +17,6 @@ https://algorithm-visualizer.org/
     - `<TabContainer`
       - `<CodeEditor>`
   - ![algorithm-visualizer-app-code](/assets/images/algorithm-visualizer-app-code.png)
-
 - how does `<VisualizationViewer>` work?
   - what is `this.root`?
     - ![algorithm-visualizer-thisroot-code](/assets/images/algorithm-visualizer-thisroot-code.png)
