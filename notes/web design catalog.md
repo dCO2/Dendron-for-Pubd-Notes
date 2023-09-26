@@ -1,8 +1,8 @@
 ---
 id: h3zk70h0h1fk584x4c1p4mg
-title: Web Design Catalog
+title: web design catalog
 desc: ''
-updated: 1695637715525
+updated: 1695719248688
 created: 1695634492539
 ---
 
@@ -21,6 +21,8 @@ created: 1695634492539
   - ![cool-graphics-above-title-2](/assets/images/cool-graphics-above-title-2.png)
 - "industrial lines"
   - ![industrial-lines-mux](/assets/images/industrial-lines-mux.png)
+  - ![lines-royal-danish-academy](/assets/images/lines-royal-danish-academy.png)
+  - ![lines-royal-danish-academy-2](/assets/images/lines-royal-danish-academy-2.png)
 - "oversabi interactives"
   - ![oversabi-interactives](/assets/images/oversabi-interactives.png)
 - "materialistic"

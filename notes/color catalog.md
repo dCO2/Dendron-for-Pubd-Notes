@@ -2,7 +2,7 @@
 id: i7ta88h1ch11xw328ehnbmj
 title: color catalog
 desc: ''
-updated: 1695634069039
+updated: 1695719029989
 created: 1693482704378
 ---
 
@@ -19,5 +19,15 @@ _`Firefox's Eyedropper better than any from Chrome?`_
 - One of my long-standing favorite colors from p5.js (the reddish band below)
   - RGBA: `(237, 34, 93, 100)`; `#ed225d`  
   - ![p5-fav-color](/assets/images/p5-fav-color.png)
-- other colors:
-  - 
+- other color palettes:
+  - `#e7f85e` ("shoot green" or chartreuse: `#DFFF00`)
+    - ![color-shoot-green](/assets/images/color-shoot-green.png) https://colors.muz.li/palette/e7f85e/a3ae42/fbffd7/dd5ef8/9b42ae https://colors.muz.li/color/e7f85e
+  - `b7410e` ("rust")
+    - ![color-rust](/assets/images/color-rust.png) https://colors.muz.li/palette/b7410e/dd9d42/42cec0/37c1ce/edaa53 https://colors.muz.li/color/rust
+  - `#ac7660` ("toast brown")
+    - ![color-toast-brown](/assets/images/color-toast-brown.png) https://colors.muz.li/color/ac7660
+  - `2d1137` ("onion purple")
+    - ![color-onion-purple](/assets/images/color-onion-purple.png) https://colors.muz.li/color/2d1137
+  - `B2BEB5` (ash-grey)
+    - ![color-ash-grey](/assets/images/color-ash-grey.png) https://colors.muz.li/color/ash-grey
+
