@@ -1,8 +1,8 @@
 ---
 id: i4ai0txknawibime68rvfu9
-title: the directory for the netpin site currently looks like this
+title: the build tree for the netpin site currently looks like this
 desc: ''
-updated: 1687975745482
+updated: 1695726602516
 created: 1687975424359
 ---
 
@@ -50,4 +50,4 @@ created: 1687975424359
 ├── tailwind.config.js
 └── tsconfig.json</pre>
 
-(this was obtained in a linux terminal with the command: `tree -I '.*|node_modules'`)
+(this was generated in a linux terminal with the command: `tree -I '.*|node_modules'`)
