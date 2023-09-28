@@ -2,7 +2,7 @@
 id: 8nnxdw3bi3k2u9nr5yaky27
 title: SeaSalt
 desc: ''
-updated: 1695822211805
+updated: 1695843804495
 created: 1695745089371
 ---
 
@@ -22,4 +22,8 @@ created: 1695745089371
 - how to achieve tinted background image in css
   - https://css-tricks.com/tinted-images-multiple-backgrounds/
 
+- where to get textures
+  - https://texturelabs.org/
+
+- 
 [[Rhodeon]]

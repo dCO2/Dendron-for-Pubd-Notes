@@ -2,11 +2,11 @@
 id: h3zk70h0h1fk584x4c1p4mg
 title: web design catalog
 desc: ''
-updated: 1695719248688
+updated: 1695918829795
 created: 1695634492539
 ---
 
-- I interpreted this major card in the image below as the 'About Me' in the Home page of a blogging site
+- I intepreted the major card in this image below as an 'About Me' in the Home page of some blogging site
   - ![blog-homepage-aboutme](/assets/images/blog-homepage-aboutme.png)
 - ![like-a-drawer](/assets/images/like-a-drawer.png)
   - an actual drawer
