@@ -2,7 +2,7 @@
 id: 5nuxybcjbiir99ydklsry3b
 title: quadtree
 desc: ''
-updated: 1695987454211
+updated: 1695997058433
 created: 1695884225673
 ---
 
@@ -23,5 +23,12 @@ created: 1695884225673
   - mouseDragged https://p5js.org/reference/#/p5/mouseDragged
   - errors
     - `Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('file://') does not match the recipient window's origin ('null').` https://stackoverflow.com/questions/22194409/failed-to-execute-postmessage-on-domwindow-the-target-origin-provided-does
+  - i have forgotten how `draw()` works
+    - what's the diff btw these:
+      - ![p5-draw-order-1](/assets/images/p5-draw-order-1.png) (last call to recurse doesn't appear)
+      - ![p5-draw-order-2](/assets/images/p5-draw-order-2.png) (nothing appears)
+      - ![p5-draw-order-3](/assets/images/p5-draw-order-3.png) (both recurse calls superposed)
+      - ![p5-draw-order-4](/assets/images/p5-draw-order-4.png) (something shows up)
+      - ![p5-draw-order-5](/assets/images/p5-draw-order-5.png) (nothing shows up)
 - javascript
   - sort array of arrays by second element in each inner array: `this.allPoints.sort( (pointA, pointB) => pointA[1] > pointB[1] );`
