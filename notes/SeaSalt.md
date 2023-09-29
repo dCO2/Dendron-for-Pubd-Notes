@@ -2,7 +2,7 @@
 id: 8nnxdw3bi3k2u9nr5yaky27
 title: SeaSalt
 desc: ''
-updated: 1695928579215
+updated: 1695973347336
 created: 1695745089371
 ---
 
@@ -20,6 +20,11 @@ created: 1695745089371
 - how to achieve tinted background image in css
   - https://css-tricks.com/tinted-images-multiple-backgrounds/
 - where to get textures
+  - https://www.freepik.com/free-photos-vectors/sand-texture
   - https://texturelabs.org/
-
+- concrete box-shadow: box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.19);
+- css select all descendants
+  - `ul ul {}`
+- breaking to a new line with inline-block
+  - use `display: table;`
 [[Rhodeon]]

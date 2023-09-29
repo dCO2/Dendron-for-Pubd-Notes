@@ -2,12 +2,21 @@
 id: 113c6c5np8cuub04vh4vvj4
 title: Projects
 desc: ''
-updated: 1694183728450
+updated: 1695987643977
 created: 1686738074927
 ---
 
-<!-- - **2023, Sept.**:
-_Building [[Rhodeon]]—a mini [[design system]]—with [[Radix-UI]]_ -->
+- **2023, Sept.**:
+_[[seasalt]]_
+
+- **2023, Sept.**:
+_[[quadtree]]_
+
+- **2023, Sept.**:
+_File Diff_
+
+- **2023, Sept.**:
+_Building [[Rhodeon]]—a mini [[design system]]—with [[Radix-UI]]_
 
 - **2023, July 03**:
 _Building [[Cheereo]] with [[WebRTC]]/[[SocketIO]]_  
@@ -31,4 +40,4 @@ _Why learn Algorithm design? “It is usually the case that when engineers learn
 _I began actively working on ways to improve my memory when I realized I could not learn anything properly and longterm without a kind of external structure—somewhere to "put" the many concepts I was learning, and something to help revisit them. The precise history of events escape me but reading <a href="https://andymatuschak.org/prompts/">Andy Matuschak's article</a> inspired me to actually begin work on the project I had been postponing..._ (See [[documenting p-mnemosyne]]).
 
 - **2021, 2020**:
-_Master Courses: [[]], [[]], [[]], [[]]_
+_attempt, master courses: [[distributed systems theory]], [[computer networks]], [[performance engineering of software systems]], [[algorithms and data structures theory]], [[computer system architecture]]_
