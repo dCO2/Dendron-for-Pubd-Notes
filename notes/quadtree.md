@@ -2,7 +2,7 @@
 id: 5nuxybcjbiir99ydklsry3b
 title: quadtree
 desc: ''
-updated: 1695997058433
+updated: 1696071363315
 created: 1695884225673
 ---
 
@@ -13,6 +13,9 @@ created: 1695884225673
   - well first off, have you thought about how to obtain the number of points within a region on a 2D plane? that, i think, will come in handy
     - you can sort the list of points by the x-coordinates first, then count (the number of points) up-to the x-coordinate of the region. you should obtain a new set of points.
     - sort this new set of points again by the y-coordinate, then count as above. 
+  - this does not work
+    - ![creating-subquadtree-1](/assets/images/creating-subquadtree-1.png)
+    - ![creating-subquadtree-2](/assets/images/creating-subquadtree-2.png) (this tries to avoid using an `is_quadtree_divided?` boolean; such that if a child quadtree exists is the parent's children array, then it was created/the parent was divided)
 - p5js
   - fill(COLOR)
   - translate(X, Y) https://p5js.org/reference/#/p5/translate
