@@ -21,6 +21,8 @@ section.side-layout-main {
   header.ant-layout-header {
   /* Background color of the header, with logo and search bar. */
   background: #e0e0e0;
+  display: none;
+
   }
   
   .dendron-tree-menu.ant-menu
