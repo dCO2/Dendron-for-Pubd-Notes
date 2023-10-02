@@ -8,7 +8,7 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
 */
 
 /* ============> background colors <============ */
-section.side-layout-main {
+  section.side-layout-main {
   /* Background color of the main section, with the page contents and table of contents. */
   background: #ffffff;
   }
@@ -22,7 +22,10 @@ section.side-layout-main {
   /* Background color of the header, with logo and search bar. */
   background: #e0e0e0;
   display: none;
+  }
 
+  .ant-breadcrumb {
+    display: none;
   }
   
   .dendron-tree-menu.ant-menu
