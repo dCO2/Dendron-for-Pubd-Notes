@@ -12,6 +12,10 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
   /* Background color of the main section, with the page contents and table of contents. */
   background: #ffffff;
   }
+
+  section.ant-layout {
+    margin-top: 0px;
+  }
   
   footer.ant-layout-footer {
   /* Background color of the footer */
@@ -19,9 +23,9 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
   }
   
   header.ant-layout-header {
-  /* Background color of the header, with logo and search bar. */
-  background: #e0e0e0;
   display: none;
+  /* Background color of the header, with logo and search bar. */
+  /* background: #e0e0e0; */
   }
 
   .ant-breadcrumb {
