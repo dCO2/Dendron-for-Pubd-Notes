@@ -2,11 +2,11 @@
 id: 5nuxybcjbiir99ydklsry3b
 title: quadtree
 desc: ''
-updated: 1696236258217
+updated: 1696358865257
 created: 1695884225673
 ---
 (this is me exploring my way through implementing a data structure whose wikipedia page i haven’t read; like solving an unattempted leetcode question)
-
+- W.I.P deployed @ https://dco2.github.io/mn_quadtree/
 - thoughts:
   - as i add the points with the mouseDragged, and the number of points (within the root quadtree) exceeds the bucket capacity, what should i do?
     - yes, i should assign new quadtrees to the root's children, but then, what next?
