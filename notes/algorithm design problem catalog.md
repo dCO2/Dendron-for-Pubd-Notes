@@ -2,7 +2,7 @@
 id: 3l0zqgem0zgbxpio7yubx04
 title: algorithm design problem catalog
 desc: ''
-updated: 1695918773238
+updated: 1696843837653
 created: 1693471719185
 ---
 
@@ -20,7 +20,7 @@ note: the problems on this page are majorly (/ intend to be) grouped by the natu
 - [[Invalid Transactions]] (look into how OOP might complicate implementation? a solution to I.T: https://www.youtube.com/watch?v=N0Hgr7vTXOw)
 - [[Course Schedule 1]] asks if it is possible to complete a given 'curriculum' of courses when some courses are dependent on other courses; [[Course Schedule 2]] determines some particular order in which the courses should be taken; _([dependency graph](https://en.wikipedia.org/wiki/Dependency_graph); [topological sorting](https://en.wikipedia.org/wiki/Topological_sorting); [optimal job scheduling](https://en.wikipedia.org/wiki/Optimal_job_scheduling); [unix tsort](https://en.wikipedia.org/wiki/Tsort); [railway timetables](https://youtu.be/NFLb1IPlY_k).)_
 - [[Number of Islands]] and [[Max Area of Island]] computes the number and size (respectively) of **separate** segments within a matrix of binary-state elements. When the shape of the segment is a constraint, the problem is more difficult: [[Maximal Square]], [[Maximal Rectangle]]. Even more difficult is efficiently (O(k log mn)) obtaining the intermediate number of separate segments when the "matrix of binary-state elements" is populated one "land-state" at a time, where k in O(k log mn) is the number of times: [Number of Islands 2](https://aaronice.gitbook.io/lintcode/union_find/number_of_islands_ii).
-- [[2 Sum]] `selects` 2 random integers (from an integer array) that sum to a target integer. How about we select 3? [[3 Sum]]. How about we select any **_n_** that sum to _target_? (If we can't `select`, can we at least `test`?) [[Subset Sum Equals K]]. How about we select any contiguous 2? any contiguous 3? any contiguous **_n_**? (If we can't select, can we do better than test and actually `count` all the number of ways that a solution is true?) i.e., How about we obtain all the number of ways that a contiguous **_n_** sums to the target? [[Subarray Sum Equals K]]. What if we obtain the maximum target that any contiguous **_n_** sums to? [[Maximum Subarray Sum]]. What if the operation is not a sum but a product? [[Maximum Subarray Product]].
+- [[2 Sum]] `selects` any 2 integers (from an integer array) that sum to a target integer. How about we select 3? [[3 Sum]]. How about we select any **_n_** that sum to _target_? (If we can't `select`, can we at least `test`?) [[Subset Sum Equals K]]. How about we select any contiguous 2? any contiguous 3? any contiguous **_n_**? (If we can't select, can we do better than test and actually `count` all the number of ways that a solution is true?) i.e., How about we obtain all the number of ways that a contiguous **_n_** sums to the target? [[Subarray Sum Equals K]]. What if we obtain the maximum target that any contiguous **_n_** sums to? [[Maximum Subarray Sum]]. What if the operation is not a sum but a product? [[Maximum Subarray Product]].
 - [[Subsets]], [[Subsets 2]]
 - [[Minimum Size Subarray Sum]]
 - [[Split Linked List in Parts]]
