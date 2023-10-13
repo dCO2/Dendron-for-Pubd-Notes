@@ -2,10 +2,13 @@
 id: g29oys788cs2ojkssxp5vib
 title: Next.js
 desc: ''
-updated: 1694001306764
+updated: 1697216946509
 created: 1686743152635
 ---
 
+- ![[what i expect from exposés on technologies#^anchor-tech-get-started]]
+- ![[what i expect from exposés on technologies#^anchor-tech-internals]]
+- ![[what i expect from exposés on technologies#^anchor-production-problems]]
 - How is Next.js different from [[ReactJs]]?
   - https://www.toptal.com/next-js/next-js-vs-react
   - [[TypeScript]]

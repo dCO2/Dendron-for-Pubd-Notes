@@ -2,14 +2,24 @@
 id: qk4own9i5h3grtqj6y336ii
 title: system design
 desc: ''
-updated: 1694444633034
+updated: 1697218440232
 created: 1694423583585
 ---
 
-
 - [[understanding databases]]
 - [[design patterns]]
+- [[sql]]
+- [[cdn]]
+- [[consistent hashing]]
+- workers
+- asynchronous queues
+- [[load balancer]]
+- cache
+- database denormalization, replication
+- partitioning
+- transactions
 
+- Build a search autocomplete system
 - Design an Online Chat
   - A chat is basically a `list` of timed messages (as `strings`) from a set of `Users`
     - Any user can `add` to the list
