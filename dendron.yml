@@ -94,7 +94,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: "  ///:)"
+        title: "  About these pages"
         description: Personal Knowledge Space
     github:
         enableEditLink: true
