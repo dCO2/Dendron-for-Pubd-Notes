@@ -29,11 +29,11 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
   }
 
   .ant-select-selector {
-    display: none;
+    display: none !important;
   }
 
   .ant-layout-header, .ant-row.ant-row-center, .site-title {
-    height: 35px;
+    height: 35px !important;
   }
 
   .site-title {
