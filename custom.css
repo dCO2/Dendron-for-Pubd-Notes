@@ -14,7 +14,7 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
   }
 
   section.ant-layout {
-    margin-top: 35px !important;
+    margin-top: 0px !important;
   }
   
   footer.ant-layout-footer {
@@ -37,8 +37,12 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
   }
 
   .site-title {
-    margin-top: -16px;
+    margin-top: -10px;
     overflow: visible !important;
+  }
+
+  main {
+    margin-top: 35px;
   }
 
   .ant-breadcrumb {
