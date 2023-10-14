@@ -14,7 +14,7 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
   }
 
   section.ant-layout {
-    margin-top: 0px !important;
+    margin-top: 35px !important;
   }
   
   footer.ant-layout-footer {
@@ -23,9 +23,22 @@ We'll be trying to stabilize these as soon as possible to minimize breakages!
   }
   
   header.ant-layout-header {
-  display: none;
+  /* display: none; */
   /* Background color of the header, with logo and search bar. */
-  /* background: #e0e0e0; */
+  background: #ffffff;
+  }
+
+  .ant-select-selector {
+    display: none;
+  }
+
+  .ant-layout-header, .ant-row.ant-row-center, .site-title {
+    height: 35px;
+  }
+
+  .site-title {
+    margin-top: -16px;
+    overflow: visible !important;
   }
 
   .ant-breadcrumb {
