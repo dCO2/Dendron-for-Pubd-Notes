@@ -2,11 +2,12 @@
 id: d049v5agaal82wytcmoz2de
 title: sql
 desc: ''
-updated: 1697217668232
+updated: 1697717653667
 created: 1697018682151
 ---
 
 - ![[what i expect from exposés on technologies#^anchor-tech-get-started]]
+  - CREATE TABLE, ALTER TABLE, SELECT, FROM, WHERE, DISTINCT, LIMIT, GROUP BY, JOIN, UNION, INSERT INTO, SET, UPDATE, DELETE, DROP, COUNT, SUM, AVG,...
 - ![[what i expect from exposés on technologies#^anchor-tech-internals]]
   - [SQL queries don't start with SELECT](https://news.ycombinator.com/item?id=21150606)
   - [Best practices for writing SQL queries](https://news.ycombinator.com/item?id=26762206)
