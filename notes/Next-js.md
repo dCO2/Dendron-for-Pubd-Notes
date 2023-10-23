@@ -2,7 +2,7 @@
 id: g29oys788cs2ojkssxp5vib
 title: Next.js
 desc: ''
-updated: 1698071726781
+updated: 1698073851226
 created: 1686743152635
 ---
 
@@ -23,7 +23,7 @@ created: 1686743152635
 - ![[what i expect from exposés on technologies#^anchor-production-problems]]
 - next-auth
 - Clerk auth
-- contentLayer: "Contentlayer is the glue between your content and your code. ... When Contentlayer transforms content into data, it also creates type definitions for that data" https://contentlayer.dev/docs/concepts/how-contentlayer-works-da5b2220
+- contentLayer: "It is a content preprocessor that validates and transforms your content into type-safe JSON you can easily import into your application." https://contentlayer.dev/docs/concepts/how-contentlayer-works-da5b2220
 - [[how to implement viewcount for a webpage]]?
   - Redis/serverless' Upstash, etc.
 - vercel <sub>[[serverless]]</sub>
