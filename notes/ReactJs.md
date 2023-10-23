@@ -2,13 +2,15 @@
 id: 2s5s0oltg02uyq4dl3wnshy
 title: React.js
 desc: ''
-updated: 1697216928676
+updated: 1698065919251
 created: 1693839815837
 ---
 
 - ![[what i expect from exposés on technologies#^anchor-tech-get-started]]
+- what is the build-tree like for a basic React app?
 - ![[what i expect from exposés on technologies#^anchor-tech-internals]]
-- ![[what i expect from exposés on technologies#^anchor-production-problems]]
+- how is routing handled?
+- how do you affix a canvas to the virtualDOM?
 - `useEffect(setup, dependencies?)`
   - [useEffect](https://react.dev/reference/react/useEffect) is a React Hook that lets you [[synchronize a component with an external system]].
   - What is the useEffect "array parameter" used for?
@@ -18,3 +20,5 @@ created: 1693839815837
   - how do dependencies work?
   - primitive and non-primitive dependencies
   - https://youtu.be/QQYeipc_cik
+- ![[what i expect from exposés on technologies#^anchor-production-problems]]
+- [[how to implement viewcount for a page]]?
