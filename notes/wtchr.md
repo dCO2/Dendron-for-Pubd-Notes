@@ -2,10 +2,10 @@
 id: a1xocljrqxoyx5oqjvwngpa
 title: wchr
 desc: ''
-updated: 1696600336602
+updated: 1698684466436
 created: 1696423706083
 ---
-- W.I.P currently deployed @ https://wchr-one.vercel.app/
+- W.I.P currently deployed @ https://wchr-one.vercel.app/ (currently inactive)
 - importing variables from another file?
   - `from .config import config`
 - how to handle pagination?

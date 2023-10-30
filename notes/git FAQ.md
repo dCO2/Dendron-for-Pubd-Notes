@@ -2,10 +2,12 @@
 id: vhl8zu9mhd3wfror06k84z6
 title: git FAQ
 desc: ''
-updated: 1694174043132
+updated: 1698403672653
 created: 1693582227815
 ---
 
+- How to show branch hierarchy/tree on the terminal?
+  - `git log --all --graph --decorate --oneline --simplify-by-decoration`
 - Why doesn't  `git push` push all commits from other branches?^anchor-git-faq-push-commit
   - https://stackoverflow.com/questions/19088396/does-git-push-push-all-commits-from-other-branches
 - Why shouldn't git branches be used for semantic versioning an app?
