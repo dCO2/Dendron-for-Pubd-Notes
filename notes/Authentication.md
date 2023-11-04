@@ -2,12 +2,13 @@
 id: y3a2iyw2tzwli11n6t7e2ss
 title: Authentication
 desc: ''
-updated: 1693473224972
+updated: 1699127040081
 created: 1688065677888
 ---
 
-_\#TODO_:
-Skim & Ankify for anything new; [Modern Authentication - Rob Moore](https://youtu.be/X6a9bjNutEw) suggested from https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/.
+- [[jwt]]
+
+[Modern Authentication - Rob Moore](https://youtu.be/X6a9bjNutEw) suggested from https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/.
 
 <details>
 <summary>Toggle</summary>
