@@ -2,9 +2,12 @@
 id: 113c6c5np8cuub04vh4vvj4
 title: Projects
 desc: ''
-updated: 1697527077454
+updated: 1699273811408
 created: 1686738074927
 ---
+
+- **2023, Nov.***:
+_[[receipt-shop]]_
 
 - **2023, Oct.**:
 _[[qeew]]_
