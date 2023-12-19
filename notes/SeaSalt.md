@@ -2,7 +2,7 @@
 id: 8nnxdw3bi3k2u9nr5yaky27
 title: SeaSalt
 desc: ''
-updated: 1696358806122
+updated: 1702459649366
 created: 1695745089371
 ---
 - W.I.P deployed @ https://dco2.github.io/seasalt.css/
@@ -27,4 +27,5 @@ created: 1695745089371
   - `ul ul {}`
 - breaking to a new line with inline-block
   - use `display: table;`
-[[Rhodeon]]
+- [[Rhodeon]]
+- https://jdan.github.io/98.css/

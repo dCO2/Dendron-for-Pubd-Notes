@@ -21,6 +21,9 @@ created: 1686743152635
 - Internals: Data Fetching
 - Internals: Optimizations
 - ![[what i expect from exposés on technologies#^anchor-production-problems]]
+- Suspense components
+- How does `onBlur` work?
+- useRef
 - next-auth
 - Clerk auth
 - contentLayer: "It is a content preprocessor that validates and transforms your content into type-safe JSON you can easily import into your application." https://contentlayer.dev/docs/concepts/how-contentlayer-works-da5b2220
