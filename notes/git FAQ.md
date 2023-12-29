@@ -2,10 +2,12 @@
 id: vhl8zu9mhd3wfror06k84z6
 title: git FAQ
 desc: ''
-updated: 1702737003837
+updated: 1703864689356
 created: 1693582227815
 ---
 
+- show git log in reverse
+  - `git log --reverse` or `git log -p --reverse`
 - Add all files to a commit except a single file? (https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file)
 - git diff & list of staged files
 - Commit only a part of a file's changes?
