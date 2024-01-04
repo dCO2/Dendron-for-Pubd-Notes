@@ -2,7 +2,7 @@
 id: g29oys788cs2ojkssxp5vib
 title: Next.js
 desc: ''
-updated: 1698073851226
+updated: 1704392441672
 created: 1686743152635
 ---
 
@@ -21,6 +21,8 @@ created: 1686743152635
 - Internals: Data Fetching
 - Internals: Optimizations
 - ![[what i expect from exposés on technologies#^anchor-production-problems]]
+- next bugs/gritties
+  - https://youtu.be/GSyn2hNPXYM?t=177
 - Suspense components
 - How does `onBlur` work?
 - useRef
