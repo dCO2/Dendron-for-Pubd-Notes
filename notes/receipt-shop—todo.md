@@ -2,7 +2,7 @@
 id: yjdf5wjg0z4gg9pvwyk25u0
 title: receipt-shop—todo
 desc: ''
-updated: 1703867437832
+updated: 1704486980591
 created: 1703867276390
 ---
 
@@ -11,7 +11,6 @@ created: 1703867276390
 - how can the radios in RadioGroup change the values in FormControl 'reactively'?
 
 - understand how Shadcn/React-hook-forms work (https://react-hook-form.com/)
-- 
 
 - code up custom code for each receipt-factory elements
 
