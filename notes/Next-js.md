@@ -2,7 +2,7 @@
 id: g29oys788cs2ojkssxp5vib
 title: Next.js
 desc: ''
-updated: 1704392441672
+updated: 1704828477603
 created: 1686743152635
 ---
 
@@ -23,6 +23,7 @@ created: 1686743152635
 - ![[what i expect from exposés on technologies#^anchor-production-problems]]
 - next bugs/gritties
   - https://youtu.be/GSyn2hNPXYM?t=177
+  - https://youtu.be/hMjYzeJVv8w
 - Suspense components
 - How does `onBlur` work?
 - useRef

@@ -2,10 +2,12 @@
 id: vhl8zu9mhd3wfror06k84z6
 title: git FAQ
 desc: ''
-updated: 1703864689356
+updated: 1704700185014
 created: 1693582227815
 ---
 
+- fix "error: RPC failed; curl 16 Error in the HTTP2 framing layers"
+  - https://stackoverflow.com/questions/72987674/git-pull-error-rpc-failed-curl-16-error-in-the-http2-framing-layer-fatal-exp
 - show git log in reverse
   - `git log --reverse` or `git log -p --reverse`
 - Add all files to a commit except a single file? (https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file)
