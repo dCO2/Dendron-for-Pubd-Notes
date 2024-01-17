@@ -2,7 +2,7 @@
 id: cfx3cus8jl81qnm026xpnv3
 title: type catalog
 desc: ''
-updated: 1695745808409
+updated: 1705513101196
 created: 1693410166655
 ---
 
@@ -19,6 +19,12 @@ created: 1693410166655
 - iOS
   - version x.x: _Lorem Ipsum_
 - zzz
+
+- types that look horizontally stretched
+  - https://fonts.google.com/specimen/Oswald
+- types that look vertically stretched
+- types that look "monospacey"
+  - can fit well in small line-heights
 
 #### Ref
 - http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography https://news.ycombinator.com/item?id=15424478
