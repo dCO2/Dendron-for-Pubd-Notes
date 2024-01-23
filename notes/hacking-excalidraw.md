@@ -2,7 +2,7 @@
 id: zgrwx6zhve7q5e1p6d7rugq
 title: hacking excalidraw
 desc: ''
-updated: 1706013004237
+updated: 1706029078968
 created: 1705999869296
 ---
 
@@ -23,7 +23,10 @@ created: 1705999869296
       - the main menu button is classNamed "main-menu-trigger" which inside a `<MainMenuTunnel.In>` component
       - so we search for `<MainMenuTunnel.Out>`
       - which turns out to be what we're looking for: `<tunnels.MainMenuTunnel.Out />` inside a `const renderCanvasActions` function
+- how is the canvas render?
+  - interactive canvas is a React.Memo (`export default React.memo(InteractiveCanvas, areEqual);`)
+  - in App.tsx, it is used as a component under: `ExcalidrawActionManagerContext.Provider` > `LayerUI` | `InteractiveCanvas`
 - what is tunneled UI?
   - "Digs tunnels for React elements to go in and appear somewhere else!" https://github.com/pmndrs/tunnel-rat
-  - see [[engineering responsive ui for a complex app]]
+  - see [[engineering responsive ui for complex apps]]
 
