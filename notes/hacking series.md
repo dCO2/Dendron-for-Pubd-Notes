@@ -2,12 +2,13 @@
 id: ezel9m0a8gfmk9lnmkjuiob
 title: hacking how series
 desc: ''
-updated: 1697799750229
+updated: 1705999878305
 created: 1695735191977
 ---
 
 to help understand a bit of the domain knowledge for certain technologies & realize what design or programming-language's functionality is best suited for use in the various domains.
 - internals of rendering simple graphics to the web ([[hacking algorithm-visualizer]], [[hacking pathfinding visualizer]], [[hacking p5js]]) <sub>[[web graphics]]</sub>
+- [[hacking-excalidraw]]
 - [[how does google keep implement "multi-select" | hacking google keep]]
   - ![google-keep-multi-select](/assets/images/google-keep-multi-select.png)
 - internals of rich text-formatting in the terminal <sub>[[cli_tui apps]]</sub>
