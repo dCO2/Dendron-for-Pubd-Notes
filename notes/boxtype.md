@@ -2,10 +2,12 @@
 id: 8ep0769ljfznxb1log35znt
 title: boxtype
 desc: ''
-updated: 1706102750301
+updated: 1707217889755
 created: 1706081669853
 ---
 
+- version 0.0.0
+  - ![boxtype-000.png](/assets/images/boxtype-000.png)
 - build notes
   - features
   - what data should be in 'appState'?

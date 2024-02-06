@@ -2,7 +2,7 @@
 id: cfx3cus8jl81qnm026xpnv3
 title: type catalog
 desc: ''
-updated: 1705513101196
+updated: 1706527301401
 created: 1693410166655
 ---
 
@@ -27,6 +27,7 @@ created: 1693410166655
   - can fit well in small line-heights
 
 #### Ref
+- variable font: https://v-fonts.com/
 - http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography https://news.ycombinator.com/item?id=15424478
 - https://typesetinthefuture.com/ https://news.ycombinator.com/item?id=11977909
 - https://practicaltypography.com/ https://news.ycombinator.com/item?id=6094946
